@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"b73128584381cd13","type":"group","x":-1560,"y":-200,"width":1447,"height":1640,"color":"2","label":"ANCIENT DEITIES"},
+		{"id":"ad18c4b0569c9cc7","x":-113,"y":-200,"width":1520,"height":1023,"color":"5","type":"group","label":"ASM"},
+		{"id":"db853d87e37ae53a","x":127,"y":-1001,"width":1039,"height":801,"color":"1","type":"group","label":"SPECIES"},
+		{"id":"2ce368ae35565eec","type":"file","file":"beings/VIDO.md","x":-1480,"y":-120,"width":444,"height":400,"color":"#000000"},
+		{"id":"70bc1ef9bbc41a09","type":"file","file":"beings/the Grabber.md","x":-840,"y":-120,"width":400,"height":400},
+		{"id":"79f1d9d284517ef8","type":"file","file":"beings/scull.md","x":-1458,"y":360,"width":400,"height":400},
+		{"id":"8b2509b58c366664","type":"file","file":"beings/ܘܪܕܐ.md","x":-840,"y":360,"width":400,"height":400},
+		{"id":"8fcbb786bd46622b","type":"text","text":"The strongest arm of VIDO during the heavenly war and being the first arm of VIDO to gain sentience with an  outerversal threat. \n","x":-440,"y":-120,"width":190,"height":233},
+		{"id":"625c5fd93804551e","type":"file","file":"beings/6th God.md","x":-840,"y":880,"width":400,"height":400},
+		{"id":"36aa3a070f9c53c6","type":"file","file":"misc/blissful ignorance.md","x":-1436,"y":-1160,"width":400,"height":400},
+		{"id":"7e1a6d6a2e8708d7","type":"file","file":"beings/Ferlucy.md","x":589,"y":360,"width":400,"height":400},
+		{"id":"0238d31ca2749bf1","type":"text","text":"Killed the grabber in a form of unstable energy","x":664,"y":-170,"width":250,"height":50},
+		{"id":"b38d546bb02adc14","type":"file","file":"beings/Xerxion.md","x":-32,"y":-120,"width":400,"height":402},
+		{"id":"3909f3731a883039","type":"file","file":"beings/Barge.md","x":539,"y":-120,"width":400,"height":400},
+		{"id":"982847428bc52168","type":"text","text":"","x":298,"y":-280,"width":250,"height":60},
+		{"id":"01a956e62234839a","type":"file","file":"beings/xetrixes.md","x":148,"y":-921,"width":400,"height":400},
+		{"id":"1907d5d952649646","x":645,"y":-921,"width":400,"height":400,"type":"file","file":"beings/handaranian.md"},
+		{"id":"0c9d89f9c542e0b6","type":"text","text":"The true descendent of VIDO.","x":914,"y":-180,"width":250,"height":60},
+		{"id":"6216e99b9518c924","type":"text","text":"Apart of Barge's secret division and also a high ranking officer","x":118,"y":282,"width":250,"height":218}
+	],
+	"edges":[
+		{"id":"e2d041d801b18c48","fromNode":"01a956e62234839a","fromSide":"right","toNode":"7e1a6d6a2e8708d7","toSide":"left"},
+		{"id":"954b215fd124d08b","fromNode":"2ce368ae35565eec","fromSide":"right","toNode":"3909f3731a883039","toSide":"left"},
+		{"id":"6fb09cc7b6d6010b","fromNode":"0c9d89f9c542e0b6","fromSide":"bottom","toNode":"3909f3731a883039","toSide":"left"},
+		{"id":"3bf15b1c7223a985","fromNode":"2ce368ae35565eec","fromSide":"top","toNode":"70bc1ef9bbc41a09","toSide":"left"},
+		{"id":"eaf37e74fd08c6f0","fromNode":"8fcbb786bd46622b","fromSide":"bottom","toNode":"70bc1ef9bbc41a09","toSide":"left"},
+		{"id":"43a82b271225f074","fromNode":"3909f3731a883039","fromSide":"right","toNode":"b38d546bb02adc14","toSide":"left"},
+		{"id":"b0075e1aa1c0d5ae","fromNode":"6216e99b9518c924","fromSide":"bottom","toNode":"b38d546bb02adc14","toSide":"left"},
+		{"id":"c1bc0123283efb45","fromNode":"36aa3a070f9c53c6","fromSide":"right","toNode":"2ce368ae35565eec","toSide":"left"},
+		{"id":"0fde2d9ea2ab7bff","fromNode":"3909f3731a883039","fromSide":"top","toNode":"70bc1ef9bbc41a09","toSide":"bottom"},
+		{"id":"1a679f1c4b69e738","fromNode":"0238d31ca2749bf1","fromSide":"left","toNode":"70bc1ef9bbc41a09","toSide":"bottom"},
+		{"id":"68ed12e75397bbf3","fromNode":"8fcbb786bd46622b","fromSide":"bottom","toNode":"625c5fd93804551e","toSide":"right"},
+		{"id":"b987fe14ebaedafc","fromNode":"0238d31ca2749bf1","fromSide":"bottom","toNode":"3909f3731a883039","toSide":"bottom"}
+	]
+}

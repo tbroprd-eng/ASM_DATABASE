@@ -1,0 +1,2 @@
+It is now day 39, the day before my unknowingly demise. With my hallucinations bleeding into reality, I see shadows that turn alive and bite me, it felt real, too real. 
+	My vision isn't doing well either. My eyes block out anything that emits light, and replaces it with blurry dark squares. And the worst part, I cant sleep for the entire 39 days.

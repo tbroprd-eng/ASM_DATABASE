@@ -1,0 +1,1 @@
+ radiational fighting group is ran by [[radeon]] is a fighting group or dojo that teaches people that have many potential while making them satisfied at the same time. the radiational fighting group disbanded after the planet they owned got destroyed
