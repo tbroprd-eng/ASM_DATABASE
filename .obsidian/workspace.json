@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/test.md",
+                "file": "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "ASMTRANSCRIPT923-HGB"
             }
           }
         ]
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fe9a2edf9c58fc",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
-    "misc/Void style.md",
     "misc/test.md",
+    "misc/Void style.md",
     "Untitled 2.base",
     "Untitled 3.canvas",
     "Untitled 4.canvas",
