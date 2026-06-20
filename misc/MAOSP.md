@@ -1,1 +1,0 @@
-MAOSP OR Multiversal alliance of sspace
