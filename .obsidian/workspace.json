@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/VIDO.md",
+                "file": "beings/NULL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIDO"
+              "title": "NULL"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/VIDO.md",
     "beings/Barge.md",
     "beings/scull.md",
     "beings/Xatrix.md",
@@ -212,7 +213,6 @@
     "beings/ETERON.md",
     "beings/Funterna.md",
     "beings/the cosmic slime.md",
-    "beings/VIDO.md",
     "beings/Aremia.md",
     "misc/Dominions.md",
     "misc/blissful ignorance.md",
