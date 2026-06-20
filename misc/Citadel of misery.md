@@ -1,4 +1,4 @@
-QThe Citadel of misery commonly known as The Citadel, is a brutalist goth citadel located within the [[FVA]], being the heart for all the planning during the [[heavenly war]], including the assassination and death of ████. The Citadel has its own flow of time, Which
+The Citadel of misery commonly known as The Citadel, is a brutalist goth citadel located within the [[FVA]], being the heart for all the planning during the [[heavenly war]], including the assassination and death of ████. The Citadel has its own flow of time, Which
 
 
 The Citadel of misery is 72,![[Pasted image 20260620132509.png]]898 miles tall and 175,000 miles wide, with 100 floors, being the largest Citadel all across reality, including a top security prison that holds 53b prisoners till this day.
