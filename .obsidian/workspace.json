@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/NULL.md",
+                "file": "misc/Documents/ASM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NULL"
+              "title": "ASM"
             }
           }
         ]
@@ -195,8 +195,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fe9a2edf9c58fc",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
+    "misc/MUW.md",
+    "misc/Documents/Hollowed universe.md",
+    "misc/Documents/Te.md",
+    "misc/test.md",
+    "misc/Documents/Time.md",
+    "misc/Untitled 1.md",
+    "misc/Documents/TLD098.md",
+    "misc/Documents/HU2844-HAD4.md",
+    "beings/Xerxion.md",
+    "misc/Documents",
+    "misc/Documents/ASM.md",
+    "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
+    "beings/CHRONOBOWUS.md",
+    "beings/HALLOWGEN.md",
+    "beings/The Observer.md",
+    "beings/the Grabber.md",
+    "beings/Ferlucy.md",
+    "beings/NULL.md",
     "beings/VIDO.md",
     "beings/Barge.md",
     "beings/scull.md",
@@ -208,37 +226,19 @@
     "beings/misc/THE VOID RECORDS",
     "beings/misc/Studies and research",
     "beings/misc",
-    "beings/Xerxion.md",
     "beings/Cracho.md",
     "beings/ETERON.md",
     "beings/Funterna.md",
     "beings/the cosmic slime.md",
-    "beings/Aremia.md",
-    "misc/Dominions.md",
-    "misc/blissful ignorance.md",
-    "misc/Te.md",
-    "misc/SALVAGEASM728HD.md",
-    "misc/test.md",
-    "misc/Untitled 1.md",
-    "misc/Untitled.md",
-    "misc/VIS.md",
-    "misc/Citadel of misery.md",
     "Pasted image 20260620132509.png",
-    "misc/MUW.md",
-    "beings/xetrixes.md",
-    "beings/Ferlucy.md",
-    "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
-    "misc/Void style.md",
     "Untitled 2.base",
     "Untitled 3.canvas",
     "Untitled 4.canvas",
     "Untitled 5.canvas",
     "Gemini_Generated_Image_t16y1ct16y1ct16y.png",
-    "2026-05-18.md",
     "misc/Transcripts",
     "VIS 1.png",
     "misc/THE VOID RECORDS",
-    "misc/Studies and research",
     "misc/CONNECTIONS.canvas"
   ]
 }
