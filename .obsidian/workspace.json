@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
+                "file": "misc/VIS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASMTRANSCRIPT923-HGB"
+              "title": "VIS"
             }
           }
         ]
@@ -195,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc64f77a182297dd",
+  "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/Xerxion.md",
+    "beings/xetrixes.md",
+    "beings/Ferlucy.md",
+    "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
     "misc/test.md",
     "misc/Void style.md",
     "Untitled 2.base",
@@ -208,7 +212,6 @@
     "misc/Citadel of misery.md",
     "2026-05-14.md",
     "beings/VIDO.md",
-    "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
     "misc/Transcripts/ASMTRANSCRIPT26752.md",
     "Welcome.md",
     "misc/Transcripts",
@@ -219,7 +222,6 @@
     "beings/the Grabber.md",
     "beings/scull.md",
     "beings/Funterna.md",
-    "beings/Ferlucy.md",
     "beings/CHRONOBOWUS.md",
     "beings/Cracho.md",
     "misc/Hollowed universe.md",
@@ -228,8 +230,6 @@
     "misc/HU2844-HAD4.md",
     "misc/Dominions.md",
     "misc/deity of concepts.md",
-    "misc/CRAWLDATA043.md",
-    "misc/DATABASE.md",
     "misc/THE VOID RECORDS",
     "misc/Studies and research",
     "misc/Objects",
