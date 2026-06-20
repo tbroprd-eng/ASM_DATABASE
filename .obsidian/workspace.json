@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/Xatrix.md",
+                "file": "beings/Barge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xatrix"
+              "title": "Barge"
             }
           }
         ]
@@ -197,7 +197,16 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/scull.md",
+    "beings/Xatrix.md",
     "beings/ܘܪܕܐ.md",
+    "beings/misc/Transcripts",
+    "beings/misc/Objects",
+    "beings/misc/Places",
+    "beings/misc/THE VOID RECORDS",
+    "beings/misc/Studies and research",
+    "beings/misc",
+    "beings/Xerxion.md",
     "beings/Cracho.md",
     "beings/ETERON.md",
     "beings/Funterna.md",
@@ -215,7 +224,6 @@
     "misc/Citadel of misery.md",
     "Pasted image 20260620132509.png",
     "misc/MUW.md",
-    "beings/Xerxion.md",
     "beings/xetrixes.md",
     "beings/Ferlucy.md",
     "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
@@ -227,18 +235,10 @@
     "Gemini_Generated_Image_t16y1ct16y1ct16y.png",
     "2026-05-18.md",
     "2026-05-14.md",
-    "misc/Transcripts/ASMTRANSCRIPT26752.md",
-    "Welcome.md",
     "misc/Transcripts",
     "VIS 1.png",
     "misc/THE VOID RECORDS",
     "misc/Studies and research",
-    "misc/Objects",
-    "misc/Places",
-    "beings/misc/Untitled",
-    "beings/misc",
-    "misc/Groups",
-    "misc/CONNECTIONS.canvas",
-    "misc/Events"
+    "misc/CONNECTIONS.canvas"
   ]
 }

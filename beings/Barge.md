@@ -8,6 +8,7 @@ Primary Occupation: Director of [[ASM]]
 Affiliation: MAASM, ASM(Agentura Scientifica Multiversalis)
 Core Directive: Document all events, concepts, beings and phenomenon.
 Current Status: Alive
+TESST
 
 
 
