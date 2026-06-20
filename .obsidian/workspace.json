@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/VIDO.md",
+                "file": "beings/the cosmic slime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VIDO"
+              "title": "the cosmic slime"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/VIDO.md",
     "beings/Aremia.md",
     "misc/Dominions.md",
     "misc/blissful ignorance.md",
@@ -221,7 +222,6 @@
     "Gemini_Generated_Image_t16y1ct16y1ct16y.png",
     "2026-05-18.md",
     "2026-05-14.md",
-    "beings/VIDO.md",
     "misc/Transcripts/ASMTRANSCRIPT26752.md",
     "Welcome.md",
     "misc/Transcripts",
