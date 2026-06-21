@@ -11,15 +11,14 @@
             "id": "a6fe9a2edf9c58fc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".trash/ASM.md",
-                "bFile": ".trash/ASM.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "misc/MUW.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: ASM  (Index)"
+              "icon": "lucide-file",
+              "title": "MUW"
             }
           }
         ]
@@ -196,17 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fe9a2edf9c58fc",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
-    "beings/misc/ASM.md",
-    "beings/misc/Hollowed universe.md",
-    "misc/MUW.md",
     "misc/SALVAGEASM728HD.md",
+    "misc/MUW.md",
+    "misc/Hollowed universe.md",
+    "beings/Cracho.md",
+    "beings/misc/Hollowed universe.md",
+    "beings/misc/ASM.md",
     "beings/misc/MUW.md",
+    "misc/ASM.md",
     "misc/test.md",
     "misc/Documents/ASM.md",
-    "misc/ASM.md",
-    "misc/Hollowed universe.md",
     "misc/Documents/Hollowed universe.md",
     "misc/Documents/Te.md",
     "misc/Documents/Time.md",
@@ -224,7 +224,6 @@
     "beings/NULL.md",
     "beings/VIDO.md",
     "beings/Barge.md",
-    "beings/scull.md",
     "beings/misc/Transcripts",
     "beings/misc/Objects",
     "beings/misc/Places",
