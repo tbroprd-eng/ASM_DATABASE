@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/MUW.md",
+                "file": "misc/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MUW"
+              "title": "test"
             }
           }
         ]
@@ -195,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc64f77a182297dd",
+  "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
-    "misc/SALVAGEASM728HD.md",
     "misc/MUW.md",
+    "misc/SALVAGEASM728HD.md",
     "misc/Hollowed universe.md",
     "beings/Cracho.md",
     "beings/misc/Hollowed universe.md",
