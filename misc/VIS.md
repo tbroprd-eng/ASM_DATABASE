@@ -1,3 +1,4 @@
+#VOIDRECORDS 
 **Void Infestation Syndrome**(VIS) Is characterized by the loss of your physical body and mental mind and with it slowly being replaced by an abstract void like material, and with your senses slowly being taken over by a sentient entity(it being different for each subject) 
 
 ### Signs and symptoms

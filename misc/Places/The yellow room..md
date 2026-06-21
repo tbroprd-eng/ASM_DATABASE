@@ -2,8 +2,6 @@ The yellow room or TYR is a hidden structure accompanying reality on a hidden la
 Having about {DATA RESTRICTED} layers above and below each other like one giant cake.
 TYR can be accessed via entering areas glitched areas of reality but can be also entered manually, with you being transported to layer 900Qd, which is where TYR gets its name from.
 
-
-
 ### Studies
 This section of TYR is an in depth study about the environment and nature of TYR.
 
