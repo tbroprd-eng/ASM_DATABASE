@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/NULL.md",
+                "file": "misc/Objects/IO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NULL"
+              "title": "IO"
             }
           }
         ],
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CLASSIFIED",
+                "query": "domin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,8 +235,11 @@
   },
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
-    "178204715329621419 1.jpg",
+    "misc/Documents/Codex lucis.md",
+    "misc/Objects/IO.md",
+    "misc/VIS.md",
     "beings/NULL.md",
+    "178204715329621419 1.jpg",
     "178204715329621419.jpg",
     "beings/GLITCHER.md",
     "beings/Lovya.md",
@@ -260,8 +263,6 @@
     "misc/Places/The yellow room..md",
     "misc/Documents/UNKNOWN SCRIPTURE OF V.md",
     "misc/Documents/TLD098.md",
-    "FVA.md",
-    "misc/Documents/CFM.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled document (1)-1.png",
