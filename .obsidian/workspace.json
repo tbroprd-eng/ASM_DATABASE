@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Transcripts/ASMTRANSCRIPT87300-MMM.md",
+                "file": "misc/Transcripts/ASMTRANSCRIPT200GTT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASMTRANSCRIPT87300-MMM"
+              "title": "ASMTRANSCRIPT200GTT"
             }
           }
         ],
@@ -236,8 +236,9 @@
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
     "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
-    "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
+    "misc/Transcripts/ASMTRANSCRIPT200GTT.md",
     "misc/Transcripts/ASMTRANSCRIPT87300-MMM.md",
+    "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
     "misc/ASM.md",
     "misc/CONNECTIONS.canvas",
     "misc/Void style.md",
@@ -263,7 +264,6 @@
     "beings/Lovya.md",
     "beings/Xerxion.md",
     "beings/xetrixes.md",
-    "beings/Xatrix.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled document (1)-1.png",
