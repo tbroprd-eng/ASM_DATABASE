@@ -1,3 +1,4 @@
+#TRANSCRIPT 
 {ASMTRANSPICTEXTRACTOR.EXE RUNNING...........}
 .
 .
@@ -21,9 +22,25 @@
 1. BRG: FOR YOUR SAFETY YOU SHOULD NOT BE HERE. GET OUT
 2. JD: Why? 
 3. BRG: BECAUSE I AM HANDLING A COLLAPSING UNIVERSE YOU ARE IN IT, I DONT CARE IF YOU ARE A HIGH ACCESS OFFICER OF ASM. GET OUTTTT.
-4. {Gamma rays fire at their position}
-5. {Gamma rays dissipate 23Miles away from BRG  and JD}
-6. BRG: SEE? GET THE FUCK OUT BEFORE I KILL YOU MYSELF.
-7. JD: Ok ok geez.
-8. {JD steps into provided teleporting machine.}
-
+4. .
+5. .
+6. .
+7. .
+8. {Gamma rays fire at their position}
+9. .
+10. .
+11. .
+12. {Gamma rays dissipate 23Miles away from BRG and JD}
+13. BRG: SEE? GET THE FUCK OUT BEFORE I KILL YOU MYSELF.
+14. JD: Ok ok geez.
+15. {JD STEPS INTO PROVIDED TELEPORTING MACHINE.}
+16. .
+17. .
+18. .
+19. .
+20. .
+21. .
+22. .
+23. {JD TELEPORTS BACK TO ASM PROXY BRANCH 900 }
+24. BRG: Thank God...
+25. {BRG continues trying to maintain collapsing universe}
