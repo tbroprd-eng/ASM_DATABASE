@@ -1,5 +1,5 @@
 {
-  "showInlineTitle": true,
+  "showInlineTitle": false,
   "showLineNumber": false,
   "spellcheck": true,
   "promptDelete": false
