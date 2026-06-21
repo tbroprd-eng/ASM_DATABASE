@@ -24,14 +24,13 @@ Null has no physical body, yet is able to traverse the physical plane due to Nul
 
 
 ### Description
-Based on heat signatures we have captured, Null takes an appearance as a collection of limbs from people Null has killed, 
+Based on heat signatures we have captured, Null takes an appearance as a collection of limbs from people Null has killed, posses or influenced.
+
 
 ### Origin
 Nulls origin is unknown, with the most likely guess being he came from the dimension of the forgotten, owned by [[GLITCHER]]. 
 
 
-
-There are exactly 10 concepts of Null, any
 
 
 

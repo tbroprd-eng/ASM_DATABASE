@@ -1,2 +1,2 @@
-#CLASSIFIED 
+#HEXAGON 
 The cosmic slime is a incarnation of [[scull]],  
