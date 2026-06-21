@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "line:( k-GOD)",
@@ -48,9 +48,16 @@
         "a": 1,
         "rgb": 8620329
       }
+    },
+    {
+      "query": "tag:#TRANSCRIPT  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -60,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.1355054947265388,
+  "scale": 0.6534446753890474,
   "close": false
 }
