@@ -7,7 +7,7 @@ This section of TYR is an in depth study about the environment and nature of TYR
 
 We have gathered 120 theorized ways of entering TYR with intention with 5 being effective and none threating to a persons physical or mental body, with the first one being to make an improved Low-Proximity Magnetic Distortion System via materials gathered from several planets.
 
-Another way of entering TYR is to search for glitched areas of reality, you can use the multiversal map database to search for active areas.
+Another way of entering TYR is to search for glitched areas of reality, you can use the Multiversal map database to search for active null areas.
 
 
 

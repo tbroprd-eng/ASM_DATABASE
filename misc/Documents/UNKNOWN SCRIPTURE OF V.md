@@ -1,3 +1,4 @@
+#ArchivedDocuments 
 And V said to the prophet  "a plague of black blood weeps through the air, destroying all life it touches", and how it is soon to come. Along with this, V would also say "And death will come in different periods when I return. I will reclaim for what is mine."
 
 V began giving visions to his Prophet about the plagues that he will give in the future when he returns. V would began sharing this in a span of 7 days.

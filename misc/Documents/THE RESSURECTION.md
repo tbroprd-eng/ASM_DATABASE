@@ -1,5 +1,5 @@
 # ABOUT
-The Resurrection is an event proposed by the [[CFM]], on where they would resurrect ████ into his main skeletal body that holds all multiverses and omniverses(with only 29 omniverses remaining) and due to [[scull]] sheer size compared to reality, everything that had existed in the past, present and future will collapse everything into a flower like shape, and will "rebloom" which means like a big bang,
+The Resurrection is an event proposed by the [[CFM]], on where they would resurrect ████ into his main skeletal body that holds all multiverses and omniverses(with only 29 omniverses remaining) and due to ████'s sheer size compared to reality, everything that had existed in the past, present and future will collapse everything into a flower like shape, and will "rebloom" which means like a big bang,
 
 
 # WHY?
