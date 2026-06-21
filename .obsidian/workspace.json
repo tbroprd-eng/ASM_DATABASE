@@ -48,14 +48,17 @@
             "id": "804b58f58453fc2d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "misc/Transcripts/ASMTRANSCRIPT87300-MMM.md",
-                "mode": "source",
-                "source": false
+                "file": "misc/CONNECTIONS.canvas",
+                "viewState": {
+                  "x": -76.5,
+                  "y": 140,
+                  "zoom": -2.6278986158717483
+                }
               },
-              "icon": "lucide-file",
-              "title": "ASMTRANSCRIPT87300-MMM"
+              "icon": "lucide-layout-dashboard",
+              "title": "CONNECTIONS"
             }
           }
         ],
@@ -235,6 +238,7 @@
   },
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
+    "misc/Transcripts/ASMTRANSCRIPT87300-MMM.md",
     "misc/Void style.md",
     "misc/test.md",
     "misc/Documents/THE RESSURECTION.md",
@@ -245,7 +249,6 @@
     "misc/Places/FVA.md",
     "misc/Documents/PAGE2PIECE.md",
     "misc/Documents/deity of concepts.md",
-    "misc/Transcripts/ASMTRANSCRIPT87300-MMM.md",
     "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
     "misc/Transcripts/ASMTRANSCRIPT26752.md",
     "misc/Objects/IO.md",
