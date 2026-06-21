@@ -19,13 +19,10 @@ being able to kill everyone in a 10-mile radius if a concept of Null was Manifes
 
 Null has no physical body, yet is able to traverse the physical plane due to Null is able to move in a hidden plane of existence, in this plane of existence Null can reach a maximum speed of 163,000mph when in a locomotive state.
 
-
-
-
-
 ### Description
-Based on heat signatures we have captured, Null takes an appearance as a collection of limbs from people Null has killed, posses or influenced.
+Based on heat signatures we have captured, Null takes an appearance as a collection of limbs from people Null has killed, posses or influenced. Null does not use these limbs for transportation or combat.
 
+Nulls physical shape when taken from his limbs appear to be a sphere of white unknown matter, with it likely being 768-OOJ, an element that is common near the edges outside reality and The Dimension Of The Forgotten. It is still unknown on how it is able to form from these elements.
 
 ### Origin
 Nulls origin is unknown, with the most likely guess being he came from the dimension of the forgotten, owned by [[GLITCHER]]. 
