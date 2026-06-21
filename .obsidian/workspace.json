@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/MUW.md",
+                "file": "misc/CRAWLDATA043.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MUW"
+              "title": "CRAWLDATA043"
             }
           }
         ],
@@ -210,16 +210,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8196d9da2b2eb6a",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
+    "misc/Documents",
+    "misc/MUW.md",
+    "misc/CRAWLDATA043.md",
+    "misc/Studies and research/RT084.md",
+    "misc/Studies and research/DATABASE.md",
+    "misc/Studies and research/Codex lucis.md",
+    "misc/Studies and research/Hollowed universe.md",
     "misc/test.md",
     "misc/CFM.md",
     "misc/ASM.md",
     "misc/Studies and research/MUW.md",
-    "misc/Studies and research/RT084.md",
-    "misc/Studies and research/Hollowed universe.md",
     "misc/Places/Citadel of misery.md",
-    "misc/Studies and research/Codex lucis.md",
     "misc/Studies and research/blissful ignorance.md",
     "beings/misc/ASM.md",
     "beings/misc/ASM LOCATION.md",
@@ -227,18 +231,14 @@
     "beings/misc/Untitled",
     "misc/Studies and research/Dominions.md",
     "misc/Studies and research/deity of concepts.md",
-    "misc/Studies and research/DATABASE.md",
-    "misc/CRAWLDATA043.md",
     "beings/misc/ASMTRANSCRIPT26752.md",
     "beings/misc/ASMTRANSCRIPT234420-3RR.md",
-    "misc/MUW.md",
     "misc/SALVAGEASM728HD.md",
     "misc/Hollowed universe.md",
     "beings/Cracho.md",
     "misc/Documents/ASM.md",
     "misc/Documents/Hollowed universe.md",
     "misc/Documents/Te.md",
-    "misc/Documents/Time.md",
     "misc/Documents",
     "beings/misc/Transcripts",
     "beings/misc/Objects",
