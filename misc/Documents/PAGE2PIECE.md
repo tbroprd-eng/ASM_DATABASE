@@ -1,3 +1,4 @@
+#ArchivedDocuments It has been day 20 of my sacrificial needs—with my only sense of free-will is writing on this journal. My body and mind has been a slave to a spell this eldritch being of darkness had casted over me—I can feel my body and brain degrading as I am writing this, but for some reason my body wont die from all these exhaustion. I am still worried for what will happen to me on the final day.
 It has been day 20 of my sacrificial needs—with my only sense of free-will is writing on this journal. My body and mind has been a slave to a spell this eldritch being of darkness had casted over me—I can feel my body and brain degrading as I am writing this, but for some reason my body wont die from all these exhaustion. I am still worried for what will happen to me on the final day.
 
 Its day 30 of my imprisonment, I feel dead, but somehow my body would keep pushing. 
