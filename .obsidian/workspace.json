@@ -11,14 +11,15 @@
             "id": "a6fe9a2edf9c58fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "misc/Documents/ASM.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".trash/ASM.md",
+                "bFile": ".trash/ASM.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "ASM"
+              "icon": "diff",
+              "title": "Diff: ASM  (Index)"
             }
           }
         ]
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:te",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -195,19 +196,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc64f77a182297dd",
+  "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/misc/ASM.md",
+    "beings/misc/Hollowed universe.md",
     "misc/MUW.md",
+    "misc/SALVAGEASM728HD.md",
+    "beings/misc/MUW.md",
+    "misc/test.md",
+    "misc/Documents/ASM.md",
+    "misc/ASM.md",
+    "misc/Hollowed universe.md",
     "misc/Documents/Hollowed universe.md",
     "misc/Documents/Te.md",
-    "misc/test.md",
     "misc/Documents/Time.md",
     "misc/Untitled 1.md",
     "misc/Documents/TLD098.md",
     "misc/Documents/HU2844-HAD4.md",
     "beings/Xerxion.md",
     "misc/Documents",
-    "misc/Documents/ASM.md",
     "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
     "beings/CHRONOBOWUS.md",
     "beings/HALLOWGEN.md",
@@ -218,18 +225,12 @@
     "beings/VIDO.md",
     "beings/Barge.md",
     "beings/scull.md",
-    "beings/Xatrix.md",
-    "beings/ܘܪܕܐ.md",
     "beings/misc/Transcripts",
     "beings/misc/Objects",
     "beings/misc/Places",
     "beings/misc/THE VOID RECORDS",
     "beings/misc/Studies and research",
     "beings/misc",
-    "beings/Cracho.md",
-    "beings/ETERON.md",
-    "beings/Funterna.md",
-    "beings/the cosmic slime.md",
     "Pasted image 20260620132509.png",
     "Untitled 2.base",
     "Untitled 3.canvas",
