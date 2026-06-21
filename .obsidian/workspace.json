@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
+                "file": "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASMTRANSCRIPT923-HGB"
+              "title": "ASMTRANSCRIPT234420-3RR"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
     "misc/CRAWLDATA043.md",
     "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
     "misc/MUW.md",
@@ -224,7 +225,6 @@
     "misc/Documents/SALVAGEASM728HD.md",
     "misc/Hollowed universe.md",
     "beings/Cracho.md",
-    "misc/Documents/ASM.md",
     "misc/Documents",
     "beings/misc/Transcripts",
     "beings/misc/Objects",
