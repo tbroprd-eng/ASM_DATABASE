@@ -54,11 +54,11 @@
 52. .
 53. .
 54. .
-55. .
+55. JD5: Did I just hear you faking documents?
 56. .
 57. .
 58. .
-59. .
+59. JD5: It should be time for me to go.
 60. .
 61. .
 62. .
@@ -72,8 +72,8 @@
 70. .
 71. .
 72. .
-73. .
-74. .
+73. AIJ6B: HI WELCOME TO MEDICAL AREA J6B
+74. {**JD2-4 RUSH IN**}
 75. .
 76. .
 77. .
@@ -81,11 +81,35 @@
 79. .
 80. .
 81. .
-82. {**JD2-4 COLLECTS JD'S FINGERPRINTS, HAIR AND OTHER BODILY FLUIDS**}
-83. .
+82. .
+83. {**JD2-4 COLLECTS JD'S FINGERPRINTS, HAIR AND OTHER BODILY FLUIDS**}
 84. .
 85. .
 86. .
+87. .
+88. .
+89. .
+90. .
+91. .
+92. .
+93. .
+94. .
+95. .
+96. .
+97. .
+98. .
+99. .
+100. {**JD2-4 ENTERS AREA J12 TO REQUEST PERFORMANCE IMPROVEMENT PLANS FOR JD**}
+101. .
+102. .
+103. .
+104. .
+105. .
+106. .
+107. .
+108. .
+109. .
+110. {**PIP GETS ACCEPTED**}
 
 
 
