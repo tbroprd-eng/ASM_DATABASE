@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/False Angel Space.md",
+                "file": "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "False Angel Space"
+              "title": "ASMTRANSCRIPT234420-3RR"
             }
           }
         ],
@@ -212,6 +212,8 @@
   },
   "active": "fc64f77a182297dd",
   "lastOpenFiles": [
+    "misc/radiational fighting group.md",
+    "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
     "misc/False Angel Space.md",
     "misc/Places/The yellow room..md",
     "misc/Places/Purgatory.md",
@@ -237,8 +239,6 @@
     "misc/ASM.md",
     "misc/VIS.md",
     "misc/Void style.md",
-    "misc/VOT.md",
-    "misc/Documents/Time.md",
     "misc/CONNECTIONS.canvas",
     "misc/Documents",
     "beings/misc/Untitled",
