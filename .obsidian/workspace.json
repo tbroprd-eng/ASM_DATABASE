@@ -11,14 +11,10 @@
             "id": "a6fe9a2edf9c58fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ASMTRANSCRIPT234420-3RR"
+              "title": "New tab"
             }
           }
         ]
@@ -195,11 +191,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6fe9a2edf9c58fc",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
+    "beings/misc/ASMTRANSCRIPT234420-3RR.md",
+    "beings/misc/ASMTRANSCRIPT26752.md",
+    "beings/misc/ASM LOCATION.md",
+    "beings/misc/ASM.md",
+    "misc/CONNECTIONS.canvas",
+    "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
     "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
     "misc/CRAWLDATA043.md",
-    "misc/Transcripts/ASMTRANSCRIPT234420-3RR.md",
     "misc/MUW.md",
     "misc/test.md",
     "misc/Untitled 1.md",
@@ -215,16 +216,11 @@
     "misc/Documents",
     "misc/Documents/Codex lucis.md",
     "misc/Places/Citadel of misery.md",
-    "beings/misc/ASM.md",
-    "beings/misc/ASM LOCATION.md",
     "beings/Ferlucy.md",
     "beings/misc/Untitled",
     "misc/Documents/Dominions.md",
-    "beings/misc/ASMTRANSCRIPT26752.md",
-    "beings/misc/ASMTRANSCRIPT234420-3RR.md",
     "misc/Documents/SALVAGEASM728HD.md",
     "misc/Hollowed universe.md",
-    "beings/Cracho.md",
     "misc/Documents",
     "beings/misc/Transcripts",
     "beings/misc/Objects",
@@ -238,7 +234,6 @@
     "Untitled 4.canvas",
     "Untitled 5.canvas",
     "Gemini_Generated_Image_t16y1ct16y1ct16y.png",
-    "VIS 1.png",
-    "misc/CONNECTIONS.canvas"
+    "VIS 1.png"
   ]
 }
