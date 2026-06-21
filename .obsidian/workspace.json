@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Objects/IO.md",
+                "file": "misc/test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IO"
+              "title": "test"
             }
           }
         ],
@@ -235,8 +235,11 @@
   },
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
-    "misc/Documents/Codex lucis.md",
+    "misc/Documents/FootballU10.md",
+    "misc/test.md",
+    "misc/Second Heavenly War.md",
     "misc/Objects/IO.md",
+    "misc/Documents/Codex lucis.md",
     "misc/VIS.md",
     "beings/NULL.md",
     "178204715329621419 1.jpg",
@@ -260,9 +263,6 @@
     "misc/Places/FVA.md",
     "misc/Places/HU2844-HAD4.md",
     "misc/Places/Purgatory.md",
-    "misc/Places/The yellow room..md",
-    "misc/Documents/UNKNOWN SCRIPTURE OF V.md",
-    "misc/Documents/TLD098.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled document (1)-1.png",
