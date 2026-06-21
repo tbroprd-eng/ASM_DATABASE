@@ -67,7 +67,25 @@
 65. .
 66. .
 67. .
-68.  
+68.  .
+69. {**JD-2-4 ENTERS MEDICAL AREA J6B}
+70. .
+71. .
+72. .
+73. .
+74. .
+75. .
+76. .
+77. .
+78. .
+79. .
+80. .
+81. .
+82. {**JD2-4 COLLECTS JD'S FINGERPRINTS, HAIR AND OTHER BODILY FLUIDS**}
+83. .
+84. .
+85. .
+86. .
 
 
 
