@@ -25,10 +25,14 @@
             "id": "70eb8eb7b59b8e1b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "misc/False Angel Space.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "False Angel Space"
             }
           }
         ],
@@ -206,8 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70eb8eb7b59b8e1b",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
+    "misc/False Angel Space.md",
     "misc/Places/The yellow room..md",
     "misc/Places/Purgatory.md",
     "misc/Places/HU2844-HAD4.md",
@@ -234,7 +239,6 @@
     "misc/Void style.md",
     "misc/VOT.md",
     "misc/Documents/Time.md",
-    "misc/Documents/TLD098.md",
     "misc/CONNECTIONS.canvas",
     "misc/Documents",
     "beings/misc/Untitled",
