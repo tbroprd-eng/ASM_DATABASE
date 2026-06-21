@@ -9,13 +9,7 @@ The Citadel was constructed by the [[VOT]], a coalition formed by multiple organ
 
 
 ### Sentience
-The Citadel somehow gained sentience during the Heavenly war, being able to make decisions on what happens on the Citadel, It can:
-•Swap rooms
-•Create new rooms
-•Swap floors
-•Terminate anyone in the Citadel
-
-The 
+{DATA EXPUNGED}
 
 
 
