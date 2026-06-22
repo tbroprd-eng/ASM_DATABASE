@@ -12,4 +12,7 @@ For some cultures and mythology, people and sometime Gods rebelled against time 
 Time travel is mostly made to not be be made in most universes where they do not treat time as a sacred space, to not reach a point where the concept of time implodes in all of existence, but for universes that use time travel responsibly across infinity, they are allowed to use time travel strictly under observation from Chronobowus and [[The Observer]]. 
 
 ### Emptiness
-For you people who are wondering what are the rules of time in reality where there are no multiverses and omniverses in sight, the empty void of space between them? The simple answer is, it is chaotic and the reason why areas like this are prohibited from entering. Time in empty areas constantly change unpredictably and become deadly, 
+For you people who are wondering what are the rules of time in reality where there are no multiverses and omniverses in sight, the empty void of space between them? The simple answer is, it is chaotic and the reason why areas like this are prohibited from entering. Time in empty areas constantly change unpredictably, moving in ways most mortal or immortal beings cant withstand.
+We have provided a device that measures time outside these Multiversal borders and converts them into Geometric shapes. 
+
+
