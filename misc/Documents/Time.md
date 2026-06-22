@@ -14,5 +14,5 @@ Time travel is mostly made to not be be made in most universes where they do not
 ### Emptiness
 For you people who are wondering what are the rules of time in reality where there are no multiverses and omniverses in sight, the empty void of space between them? The simple answer is, it is chaotic and the reason why areas like this are prohibited from entering. Time in empty areas constantly change unpredictably, moving in ways most mortal or immortal beings cant withstand.
 We have provided a device that measures time outside these Multiversal borders and converts them into Geometric shapes. 
-
-
+![[imageedit_1_5250455247.jpg]]
+	*-0.12 seconds of time observation on empty zone 29999-BNMS each pixel equals time change(reversed, sped up, slowed down, chronological shuffling, Timeline merging/disconnecting, )*
