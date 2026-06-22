@@ -20,3 +20,4 @@ We have provided a device that measures time outside these Multiversal borders a
 
 ### Timelines 
 Timelines are invisible lines that flow through the time metastructure, with their size being the same as a single hair strand of a modern Homo-Sapien. Regardless of size, these strands contain all timelines for all universes that have potential branches that connect to other timelines, and merge them together, overwriting the previous timelines and universes.![[fffs.png]]
+Timelines overwrite universes instantly, so for your point of view on
