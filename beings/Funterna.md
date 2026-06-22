@@ -10,10 +10,8 @@ Affiliation: [[VOT]] , [[False Angel Space]], ASM
 Core Directive: Anything
 Current Status: Alive
 
-Funterna is a primordial deity , and the founder of the [^1]FAS. Funterna is also in partnership with 
-[[ASM]], and can access 80% of all ASM materials for personal use or gain. ASM in return, would request Funterna to help aid and provide any resources or information of our choosing
-
-Funterna also runs 
+Funterna is a Primordial Deity that is the embodiment and an incarnation of power and energy, and  also the one to indirectly create another version of him by having 30% of his energy absorbed by [[HALLOWGEN]]. Funterna is also the founder and creator of the False angel space, which is a military like organization that is comprised out of [[False Angels]] that helped make the [[VOT]], merging [^1]FAS with it. 
 
 [^1]: Short acronym for False angel space
 	
+
