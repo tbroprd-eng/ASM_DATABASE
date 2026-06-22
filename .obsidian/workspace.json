@@ -40,8 +40,8 @@
             "state": {
               "type": "system3-differences-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "File Diff: CFM.md and local disk"
+              "icon": "lucide-ghost",
+              "title": "system3-differences-view"
             }
           },
           {
