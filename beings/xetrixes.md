@@ -1,3 +1,4 @@
+#HEXAGON 
 ### ABOUT
 Xetrixes are known to be soldiers of the cosmos, protecting reality from threats during the early times of reality. They are also known for there strength being powerful enough to kill a God level threat with there bare hands.
 
