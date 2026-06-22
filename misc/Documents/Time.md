@@ -17,3 +17,6 @@ We have provided a device that measures time outside these Multiversal borders a
 
 ![[Screenshot 2026-06-22 190856.jpg]]
 *-0.12 seconds of time observation on empty zone 29999-BNMS each pixel equals time change(reversed, sped up, slowed down, chronological shuffling, Timeline merging/disconnecting, )*
+
+### Timelines 
+Timelines are invisible lines that flow through the time metastructure, with their size being the same as a 
