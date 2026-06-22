@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/NULL.md",
+                "file": "misc/Studies and research/RT084.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NULL"
+              "title": "RT084"
             }
           }
         ],
@@ -235,6 +235,7 @@
   },
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
+    "beings/NULL.md",
     "misc/Studies and research/RT084.md",
     "misc/Documents/CFM.md",
     "misc/Documents/Hollowed universe 1.md",
@@ -262,7 +263,6 @@
     "misc/Void style.md",
     "misc/test.md",
     "misc/Documents/Hollowed universe.md",
-    "misc/Places/FVA.md",
     "178204715329621419 1.jpg",
     "178204715329621419.jpg",
     "Untitled.base",
