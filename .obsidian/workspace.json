@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hologramicos.md",
+                "file": "misc/Hologramicos.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "804b58f58453fc2d",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
     "beings/Funterna.md",
-    "Hologramicos.md",
+    "misc/Hologramicos.md",
     "misc/False Angel Space.md",
     "beings/False Angels.md",
     "misc/radiational fighting group.md",
