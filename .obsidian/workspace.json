@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Hologramicos.md",
+                "file": "misc/Documents/Time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hologramicos"
+              "title": "Time"
             }
           }
         ],
@@ -233,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc64f77a182297dd",
+  "active": "804b58f58453fc2d",
   "lastOpenFiles": [
-    "beings/Funterna.md",
     "misc/Hologramicos.md",
+    "beings/Funterna.md",
     "misc/False Angel Space.md",
     "beings/False Angels.md",
     "misc/radiational fighting group.md",
