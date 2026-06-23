@@ -19,6 +19,7 @@ Xerxion is a High Ranking Officer of [[ASM]], and apart of a secret division for
 ### Hidden History
 Xerxion's used to be the new cosmic son of the 14th President of the Handaranian area
 Being raised at the age of 1-5 years old and abandoned during an Artifact war. By the ages of 5-20 years, Xerxion would be in and out of Orphanages due to multiple criminals gang stalking parents who raised Xerxion.
+Along with this, Xerxion had no ability to d
 
 
 ### POWERS/ABILITIES[](https://propertyinegypt.fandom.com/wiki/Xerxion?veaction=edit&section=1 "Edit section: POWERS/ABILITIES")
