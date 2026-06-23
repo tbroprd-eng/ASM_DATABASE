@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/ELDOPHEDIAC MISC/ASMTRANSCRIPT092-ELD.md",
+                "file": "misc/ELDOPHEDIAC MISC/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ASMTRANSCRIPT092-ELD"
+              "title": "Untitled"
             }
           }
         ],
@@ -235,8 +235,9 @@
   },
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
-    "misc/Transcripts/ASMTRANSCRIPT26752.md",
     "misc/ELDOPHEDIAC MISC/ASMTRANSCRIPT092-ELD.md",
+    "misc/ELDOPHEDIAC MISC/Untitled.md",
+    "misc/Transcripts/ASMTRANSCRIPT26752.md",
     "misc/Documents/ELDOPHEDIAC REALITY.md",
     "misc/Places/Citadel of misery.md",
     "misc/Places/Dockyard of Limbo.md",
@@ -260,7 +261,6 @@
     "beings/radeon.md",
     "beings/GLITCHER.md",
     "beings/False Angels.md",
-    "beings/the cosmic slime.md",
     "misc/ELDOPHEDIAC MISC",
     "beings/ELDOPHEDIAC BEINGS",
     "fffs.png",
