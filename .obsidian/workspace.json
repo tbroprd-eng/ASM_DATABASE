@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Places/Dockyard of Limbo.md",
+                "file": "misc/Documents/blissful ignorance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dockyard of Limbo"
+              "title": "blissful ignorance"
             }
           }
         ],
@@ -233,17 +233,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc64f77a182297dd",
+  "active": "804b58f58453fc2d",
   "lastOpenFiles": [
-    "misc/Places/FVA.md",
+    "beings/VIDO.md",
+    "misc/Documents/CFM.md",
+    "misc/Documents/blissful ignorance.md",
+    "misc/Documents/Codex lucis.md",
+    "misc/Documents/UNKNOWN SCRIPTURE OF V.md",
     "misc/Places/Dockyard of Limbo.md",
+    "misc/Places/FVA.md",
     "misc/Places/Citadel of misery.md",
     "misc/Documents/PEICE1.md",
-    "misc/Documents/blissful ignorance.md",
     "misc/Documents/PAGE1HAD4.md",
     "misc/Documents/Hollowed universe.md",
     "beings/Xatrix.md",
-    "beings/VIDO.md",
     "beings/radeon.md",
     "beings/GLITCHER.md",
     "beings/False Angels.md",
@@ -258,9 +261,6 @@
     "misc/Documents/Hollowed universe 1.md",
     "misc/Documents/Dominions.md",
     "misc/Places/The yellow room..md",
-    "misc/Places/Purgatory.md",
-    "misc/Places/HU2844-HAD4.md",
-    "beings/the Grabber.md",
     "misc/ELDOPHEDIAC MISC",
     "beings/ELDOPHEDIAC BEINGS",
     "fffs.png",
