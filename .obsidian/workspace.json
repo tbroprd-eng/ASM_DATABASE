@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Warped human.md",
+                "file": "misc/Documents/Warped human.md",
                 "mode": "source",
                 "source": false
               },
@@ -233,10 +233,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "804b58f58453fc2d",
+  "active": "fc64f77a182297dd",
   "lastOpenFiles": [
     "beings/Aremia.md",
-    "Warped human.md",
+    "misc/Documents/Warped human.md",
     "beings/Barge.md",
     "misc/Documents/The Xetrix Armed Forces.md",
     "beings/Xatrix.md",
