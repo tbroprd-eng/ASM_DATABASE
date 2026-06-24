@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/ELDOPHEDIAC MISC/ELDOPHEDIAC WEBCRAWL001.md",
+                "file": "misc/Documents/The Xetrix Armed Forces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ELDOPHEDIAC WEBCRAWL001"
+              "title": "The Xetrix Armed Forces"
             }
           }
         ],
@@ -218,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,6 +235,16 @@
   },
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
+    "beings/Xatrix.md",
+    "misc/Documents/The Xetrix Armed Forces.md",
+    "beings/xetrixes.md",
+    "beings/ܘܪܕܐ.md",
+    "beings/handaranian.md",
+    "beings/Funterna.md",
+    "beings/Barge.md",
+    "beings/Aremia.md",
+    "beings/6th God.md",
+    "misc/ELDOPHEDIAC MISC/ELDOPHEDIAC WEBCRAWL001.md",
     "Screenshot 2026-06-24 182427.png",
     "178212665698343560.jpg",
     "nj 2.jpg",
@@ -243,12 +253,10 @@
     "imageedit_1_5250455247.jpg",
     "178204715329621419 1.jpg",
     "178204715329621419.jpg",
-    "misc/ELDOPHEDIAC MISC/ELDOPHEDIAC WEBCRAWL001.md",
     "178212665698343560 1.jpg",
     "Screenshot 2026-06-24 191040.png",
     "Screenshot 2026-06-24 191107.png",
     "Screenshot 2026-06-24 191051.png",
-    "nj 1.jpg",
     "misc/Documents/EMAIL2900.md",
     "misc/Documents/MUW.md",
     "misc/Documents/TLD098.md",
@@ -264,14 +272,6 @@
     "misc/Places/HU2844-HAD4.md",
     "misc/Transcripts/ASMTRANSCRIPT26752.md",
     "misc/Documents/ELDOPHEDIAC REALITY.md",
-    "misc/Places/Citadel of misery.md",
-    "misc/Objects/the painting.md",
-    "misc/Objects/IO.md",
-    "misc/Places/FVA.md",
-    "misc/heavenly war.md",
-    "misc/Documents/Hollowed universe 1.md",
-    "misc/Documents/Hollowed universe.md",
-    "misc/Documents/PAGE1HAD4.md",
     "misc/ELDOPHEDIAC MISC",
     "beings/ELDOPHEDIAC BEINGS",
     "Untitled.base",

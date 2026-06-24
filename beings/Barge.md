@@ -14,7 +14,7 @@ TESST
 
 
 
-(if you are reading this that is not in my whitelist you will be teleported in a private room and to be executed by me personally. And also do not spy on me, I have a hidden code in my skin that will slice a persons head open if deemed a threat.0
+(if you are reading this that is not in my whitelist you will be teleported in a private room and to be executed by me personally. And also do not spy on me, I have a hidden code in my skin that will slice a persons head open if deemed a threat.)
 
 Barge Canopus is the director of ASM, 
 
