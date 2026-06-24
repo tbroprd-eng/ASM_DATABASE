@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Documents/The Xetrix Armed Forces.md",
+                "file": "Warped human.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Xetrix Armed Forces"
+              "title": "Warped human"
             }
           }
         ],
@@ -235,14 +235,15 @@
   },
   "active": "804b58f58453fc2d",
   "lastOpenFiles": [
-    "beings/Xatrix.md",
+    "beings/Aremia.md",
+    "Warped human.md",
+    "beings/Barge.md",
     "misc/Documents/The Xetrix Armed Forces.md",
+    "beings/Xatrix.md",
     "beings/xetrixes.md",
     "beings/ܘܪܕܐ.md",
     "beings/handaranian.md",
     "beings/Funterna.md",
-    "beings/Barge.md",
-    "beings/Aremia.md",
     "beings/6th God.md",
     "misc/ELDOPHEDIAC MISC/ELDOPHEDIAC WEBCRAWL001.md",
     "Screenshot 2026-06-24 182427.png",
@@ -271,7 +272,6 @@
     "misc/Places/The yellow room..md",
     "misc/Places/HU2844-HAD4.md",
     "misc/Transcripts/ASMTRANSCRIPT26752.md",
-    "misc/Documents/ELDOPHEDIAC REALITY.md",
     "misc/ELDOPHEDIAC MISC",
     "beings/ELDOPHEDIAC BEINGS",
     "Untitled.base",
