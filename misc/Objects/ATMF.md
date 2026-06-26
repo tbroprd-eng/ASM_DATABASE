@@ -1,0 +1,6 @@
+ATMF(Anti-Time Manipulating Field) or Time bubble is a device that is able to create an independent field of time in front of the selected subject, with its duration lasting indefinitely unless ATMF is triggered again on the subject.
+
+Time bubbles created by ATMF are specially engineered  to not be manipulated by external deities or reality warping manipulation. Time Bubbles are also immune to Timeline merging and Timeline manipulation. 
+
+### Physical description
+ATMF is shaped to be similar to a Glock 17, with its only difference being its color pallet and extensions. ATMF has a pocket dimension inside its barrel, with this pocket dimension being able to access all points of time, timelines, its metastructure and data provided by ASM researchers. This acts as the thing that is able to create time bubbles in the ATMF
