@@ -1,3 +1,4 @@
+
 The Citadel of misery commonly known as The Citadel, is a brutalist goth citadel located within the [[FVA]], being the heart for all the planning during the [[heavenly war]], including the assassination and death of ████. The Citadel has its own flow of time, Which
 
 
