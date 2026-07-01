@@ -5,8 +5,8 @@ True Age: 1.1Qn years old
 Classification: Primordial Deity
 Aliases: XA, Sergeant X
 Origin: [[the great blooming]]
-Primary Occupation: Sergeant of the [[The Xetrix Armed Forces]]
-Affiliation: [[The Xetrix Armed Forces]]
+Primary Occupation: Sergeant of the [[XAF]]
+Affiliation: [[XAF]]
 Core Directive: Protect reality from any sort of evil.
 Current Status: Dead
 
