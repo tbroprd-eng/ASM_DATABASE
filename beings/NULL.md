@@ -27,7 +27,7 @@ Image provided below shows a rare capture of Null in his base state without any 
 ![[178204715329621419 1.jpg|334]]
 
 ### Origin
-Nulls origin is unknown, with the most likely guess being he came from the dimension of the forgotten, owned by [[GLITCHER]]. 
+Nulls origin is unknown, with the most likely guess being he came from the dimension of the forgotten, owned by [[GLITCHER]] s
 
 
 

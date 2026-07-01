@@ -1,0 +1,1 @@
+Xetrix-SC are genetically modified [[xetrixes]] that would posses the 

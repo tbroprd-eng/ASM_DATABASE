@@ -10,7 +10,7 @@ Nature of Hazard: Void matter
 	Core Objective: to reclaim this reality through infecting universes and multiverses into a one big sleeper agent hive mind.
 Status: Demanifested(Could remanifest)
 
-	And you shall consume all the peoples that the Lord your God will give over to you. Your eye shall not pity them, neither shall you serve their gods, for that would be a snare to you.
+**And you shall consume all the peoples that the Lord your God will give over to you. Your eye shall not pity them, neither shall you serve their gods, for that would be a snare to you.**
 
 
 Coming from the disturbance from the Great Blooming, VIDO is a one true omnipotent eldritch being, who can see all in darkness, VIDO is also known to be the origin of evil and the cause of the great [[heavenly war]], causing trillions of deaths from small lifeforms to Gods and universes. 
