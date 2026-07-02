@@ -1,0 +1,12 @@
+#TRANSCRIPT 
+4A: Oh my God, what the fuck is that. It seems to be some sort of sort of being! You see this Doc?
+.
+ASMRSCR: Yes, we do kind of see it, but it looks blurry.
+.
+ASMRSCR: Please describe it detail please.
+.
+4A: Uhhhhhhhhhh okay, I cant really tell you what it is.
+.
+ASMRSCR: Why so?
+.
+4A: It looks like some sort of 4, 8, 5 dimensional being?
