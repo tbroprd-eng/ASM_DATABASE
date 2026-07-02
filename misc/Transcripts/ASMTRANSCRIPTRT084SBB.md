@@ -13,4 +13,12 @@ ASMRSCR: Why so?
 4A: Like shapes, moving inside out, colors that I do not think exist. 
 4A: Please let me out, I cant take it anymore, it has been 5 months
 .
-ASMRSCR: Don't worry 4A, its just time di
+ASMRSCR: Don't worry 4A, its just time dilation, just please tell us more and we will pull you out
+.
+4A: Okay, Okay.
+4A: Holy shit, that creature is behind me.
+4A; It is following the person I have taken view of earlier.
+.
+4A: Does it know? is it normal?
+.
+IO: {TRANSCRIPT ABRUPTLY ENDS}
