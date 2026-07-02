@@ -9,4 +9,9 @@ A Warped human is phenomenon where if an advance sapient is isolated in conditio
 - 1 in a 5 chances to revive upon death
 - corruption of nearby surroundings
 - Pyrokinesis
-- de
+- Enhanced speed
+- 12 meter radius of a time field where person can manipulate time.
+- Dimensional travel(teleportation)
+- Universal travel(flight)
+- Size Manipulation(No organs malfunction)
+
