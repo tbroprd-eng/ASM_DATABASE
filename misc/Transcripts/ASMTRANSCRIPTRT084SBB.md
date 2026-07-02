@@ -9,4 +9,8 @@ ASMRSCR: Please describe it detail please.
 .
 ASMRSCR: Why so?
 .
-4A: It looks like some sort of 4, 8, 5 dimensional being?
+4A: It looks like some sort of 4, 8, 5 dimensional being? I don't really know, it just looks confusing
+4A: Like shapes, moving inside out, colors that I do not think exist. 
+4A: Please let me out, I cant take it anymore, it has been 5 months
+.
+ASMRSCR: Don't worry 4A, its just time di
