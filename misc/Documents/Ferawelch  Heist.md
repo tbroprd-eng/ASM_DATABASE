@@ -1,4 +1,8 @@
 The Ferawelch Heist is a heist that ASM Director BRG has requested which will be handled by Division-HTY and Division-YH6.
 
-### Location
-Ferawelch is a Multiversal Hub that includes an indoor casino, a maximum security prison involving [[object sealment]] and
+Ferawelch is a Multiversal Hub that includes an indoor casino, a maximum security prison incorporating the use of [[object sealment]] and several supernatural objects and entities as a use of security, and a Bank.
+
+BRG's reason for this Heist is to collect a specific object which would contain infinite energy and chaos matter, a remanent from the [[heavenly war]] .
+
+
+
