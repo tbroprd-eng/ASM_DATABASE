@@ -21,8 +21,6 @@ The Glitcher contains the ability to randomize areas of reality in a 100ft radiu
 • swap all solid, liquid and gas  ,
 • alter biological life
 
-
-
 ### THE DIMENSION OF THE FORGOTTEN
 There is a pocket dimension owned by The Glitcher called "The dimension of the forgotten" named by the first group of people who discovered his dimension, where the Glitcher can enter via his own body mass, essentially becoming a portal. Inside said pocket dimension are Concepts, People, Solid Matter and other things that were forgotten, erased, and mistakes of reality. We have studied that there is zero gravity and no concept of death not caused by The Glitcher in this pocket dimension due to unknown circumstances.
 
