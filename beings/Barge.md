@@ -13,7 +13,7 @@ Current Status: Alive
 
 **Barge Canopus**(born may 25 2072) is the director of ASM, and the smartest biological mortal in all of existence due to his supernatural but natural intelligence and has been handling ASM for 2 years and 5 months, with the record of 400,000,000 confirmed eliminations not including death loops that are threats to realities well being. 
 
-Barge is also known to be apart of a society that control multiverses like a game,  
+Barge is also known to be apart of a society that control multiverses like a game for only 
 
 
 ### History
@@ -69,11 +69,12 @@ You may also may know me for mapping out most of reality and having the second l
 	 cant really travel there. So far, we can let our consciousness travel 
 	  and interfere with peoples thoughts and technically communicate with  
 	  these people, and we are currently finding a  way to physically
-	travel there.                                                         
+	travel there.                                                                                                          
 	.                                                                      
 	IV: How do you have such a high iq?                           .         
 	BRG: Ehh probably its because-
-	BRG: STOP STOP STOP THE INTERVIEW I AM                             
+	BRG: STOP STOP STOP THE INTERVIEW I AM GONNA KILL YOU
+    .                      (BRG pulls out a standard assualt rifle and fires at IV)                                      
 	
 	  
  
