@@ -27,7 +27,10 @@ When Barge was 7 years old, he would begin to study about nuclear technology, an
 When Barge was about the age of 10, he would research about wormholes, time, gravity and other concepts, with Barge later creating a button that would essentially create portals that would lead to other universes, with no way of controlling where it leads to. This would give Barge recognition from the University of the Stars(UOTS), including an invitation to their university. This university would boost Barge's intelligence, due to the high level of tasks, courses and lessons provided by the university.
 This would also spark an interest to Barge about programming, with him having no experience until his time at UOTS, where he would  be creating programs that could shutdown power grids and access multiple devices without any sort of downloading needed, bypassing government anti virus software and firewalls, where Barge's belongings being seized by authorities, even with Barge having no intentions of harming or collecting data for malicious use.
 
+Despite the government shutdown of his dormitory, Barge was able to stay in UOTS for 4 years, due to the universities fear of him suing the Organization and all officials, with the only reason of his departure being to serve for his country for the upcoming artifact war.
 
+### Middle to present life 
+Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM.
 
 
 
