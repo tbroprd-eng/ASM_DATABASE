@@ -11,12 +11,16 @@ Current Status: Alive
 
 ~~(if you are reading this that is not in my whitelist you will be teleported in a private room and to be executed by me personally. And also do not spy on me, I have a hidden code in my skin that will slice a persons head open if deemed a threat.)~~
 
+This Document is comprised by Barge Canopus himself and 9 other researchers and editors.
+
 **Barge Canopus**(born may 25 2072) is the director of ASM, and the smartest biological mortal in all of existence due to his supernatural but natural intelligence and has been handling ASM for 2 years and 5 months, with the record of 400,000,000 confirmed eliminations not including death loops that are threats to realities well being. 
 
 Barge is also known to be apart of a society that control multiverses like a game for only about 2 years during the age of 24 to 25, with him leaving to run ASM during his age of 25.
 
-### Early life 
-Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parents names were classified. BRG during the his early life from age 3-10 was lea
+### Early life told by gathered data of Barge
+Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parents names were classified. BRG during the his early life from age 3-10 was learning, not in the traditional way of schools or online networks, Barge would learn naturally, where he would learn up to 10 languages at the age of 3 from different regions on his planet, being able to speak of them fluently, with him creating specific extensions for his vocal cords for specific dialects.
+
+At the age of 5 Barge would begin to learn about technology more, creating all sorts of inventions, EMP guns, perpetual motion machines, AI trained to fight and many others. Barge during this age was his way of killing time and exploring his potential, and while we were talking about his inventions, we would like 
 
 
 
@@ -29,9 +33,11 @@ During the Artifact war, I became a scientist and researcher, making weapons and
 
 At the age of 21, I joined a Reality wide Secret society, going to all their meetings and climbing the ladder. I didn't really want to hold the responsibility for multiple people yet, so I just made sure I could not rank up.
 
-When I was 25 during the new year, I was in one of those parties that the secret society held one in a while, and a old man approached me, I have never seen him in my life, he asked me to run his business, I agreed, and when I woke up, I was in a office with a manual teaching me the basics on how to run this place, I got the hang of it the first hour, I did not need to use the manual no more, that was when I was running ASM. (For some reason after I joined ASM, my lifespan would decrease if I used most of my brain power for thinking. I am currently looking for a cure.)
+When I was 25 during the new year, I was in one of those parties that the secret society held one in a while, and a old man approached me, I have never seen him in my life, he asked me to run his business, I agreed, and when I woke up, I was in a office with a manual teaching me the basics on how to run this place, I got the hang of it the first hour, I did not need to use the manual no more, that was when I was running ASM. For some reason after I joined ASM, my lifespan would decrease if I used most of my brain power for thinking. I am currently looking for a cure.
 
-	Also I have done research of the origin of my birth and realized that I was a direct offspring of VIDO, where he made my mother conceive without any sort of sexual intercourse, with this also explaining why she died. 
+Also I have done research of the origin of my birth and realized that I was a direct offspring of VIDO, where he made my mother conceive without any sort of sexual intercourse, with this also explaining why she died. 
+
+By the way fuck you IO, why are you transcribing this, I am trying to tell this to Xerxion.
 
 
  
