@@ -10,6 +10,7 @@ Nature of Hazard: Conceptual
 Core Objective: To strip Reality of Good.
 Status: Eliminated
 
+"Be alert and of sober mind. Your enemy the devil prowls around like a roaring lion looking for someone to *devour*"
 
 
 A being made of pure evil and chaos energy,

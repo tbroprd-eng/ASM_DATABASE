@@ -3,20 +3,17 @@ Name:  Barge Canopus
 True Age: 26
 Classification: Demigod
 Aliases: BRG, BG,  
-Dimension of Origin: Main offspring of [[VIDO]] on BXA73
+Origin: Main offspring of [[VIDO]] on BXA73
 Primary Occupation: Director of [[ASM]]
 Affiliation: MAASM, ASM(Agentura Scientifica Multiversalis)
 Core Directive: Document all events, concepts, beings and phenomenon.
 Current Status: Alive
-TESST
+
+~~(if you are reading this that is not in my whitelist you will be teleported in a private room and to be executed by me personally. And also do not spy on me, I have a hidden code in my skin that will slice a persons head open if deemed a threat.)~~
+
+Barge Canopus**(born may 25 2072)**, and the smartest biological mortal in all of existence and has been handling ASM for 2 years and 5 months, with the record of 400,000,000 confirmed eliminations not including death loops that are threats to realities well being.
 
 
-
-
-
-(if you are reading this that is not in my whitelist you will be teleported in a private room and to be executed by me personally. And also do not spy on me, I have a hidden code in my skin that will slice a persons head open if deemed a threat.)
-
-Barge Canopus is the director of ASM, 
 
 ### History
 For as long as I can remember, from the day I was born, I was smart. I learned 10 languages at 3, learned how to make weapons that could destroy a small continent that does not involve nuclear and bombing technology,  and created inter-dimensional travel at 10, with my estimated IQ being 10,000 during that age.
