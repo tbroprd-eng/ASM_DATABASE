@@ -18,9 +18,14 @@ This Document is comprised by Barge Canopus himself and 9 other researchers and 
 Barge is also known to be apart of a society that control multiverses like a game for only about 2 years during the age of 24 to 25, with him leaving to run ASM during his age of 25.
 
 ### Early life told by gathered data of Barge
-Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parents names were classified. BRG during the his early life from age 3-10 was learning, not in the traditional way of schools or online networks, Barge would learn naturally, where he would learn up to 10 languages at the age of 3 from different regions on his planet, being able to speak of them fluently, with him creating specific extensions for his vocal cords for specific dialects.
+Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parents names were classified, with his mother dying at birth due to her being conceived by VIDO and later with his father committing suicide due to grief. BRG during the his early life from age 3-10 was learning, not in the traditional way of schools or online networks, Barge would learn naturally, where he would learn up to 10 languages at the age of 3 from different regions on his planet, being able to speak of them fluently, with him creating specific extensions for his vocal cords for specific dialects.
 
-At the age of 5 Barge would begin to learn about technology more, creating all sorts of inventions, EMP guns, perpetual motion machines, AI trained to fight and many others. Barge during this age was his way of killing time and exploring his potential, and while we were talking about his inventions, we would like 
+At the age of 5 Barge would begin to learn about technology more, creating all sorts of inventions, EMP guns, perpetual motion machines, AI trained to fight and many others. Barge during this age was his way of killing time and exploring his potential, and while we were talking about his inventions, we would like to tell you how he lived. Barge would usually do a full rotation of living through 29 motels in a span of 8 months per rotation, occasionally mugging bystanders for money to pay for the motels.
+
+When Barge was 7 years old, he would begin to study about nuclear technology, and reverse engineering bombs such as the Destroying Vrox and the Morinio boy, later Barge would use this to create his first deadly bomb, where he would use specific minerals and materials that are in 60JNV-X's natural deposits along with specific forms of magic, creating the firs
+
+
+
 
 
 
