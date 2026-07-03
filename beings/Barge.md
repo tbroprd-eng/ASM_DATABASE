@@ -22,7 +22,9 @@ Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parent
 
 At the age of 5 Barge would begin to learn about technology more, creating all sorts of inventions, EMP guns, perpetual motion machines, AI trained to fight and many others. Barge during this age was his way of killing time and exploring his potential, and while we were talking about his inventions, we would like to tell you how he lived. Barge would usually do a full rotation of living through 29 motels in a span of 8 months per rotation, occasionally mugging bystanders for money to pay for the motels.
 
-When Barge was 7 years old, he would begin to study about nuclear technology, and reverse engineering bombs such as the Destroying Vrox and the Morinio boy, later Barge would use this to create his first deadly bomb, where he would use specific minerals and materials that are in 60JNV-X's natural deposits along with specific forms of magic, creating the firs
+When Barge was 7 years old, he would begin to study about nuclear technology, and reverse engineering bombs such as the Destroying Vrox and the Morinio boy, later Barge would use this to create his first deadly weapon involving bombs, where he would use specific minerals and materials that are in 60JNV-X's natural deposits along with specific forms of magic, creating the first portable gun to fire bombs that would have similar impact of destruction of nukes but without any sort of nuclear technology. During this time, most planets only knew how to produce nuclear bombs, due to the unnatural amount of uranium and plutonium found underground. 
+
+When Barge was about the age of 10, he would research about wormholes, time, gravity and other concepts, with Barge later creating a button that would essentially create portals that would lead to other dimensions, with no way of 
 
 
 
