@@ -30,7 +30,7 @@ This would also spark an interest to Barge about programming, with him having no
 Despite the government shutdown of his dormitory, Barge was able to stay in UOTS for 4 years, due to the universities fear of him suing the Organization and all officials, with the only reason of his departure being to serve for his country for the upcoming artifact war.
 
 ### Middle to present life 
-Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM.
+Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM, with most of it was helping local ally's and nations on 60JNV-X, creating self defense systems such as the immortality-1200, an immortality field and the ROS(Ray of sunshine), a weather air defense system. Barge would also begin to go and look onto the background's of several military and political figures to find any sort of information to blackmail them for resource and power, even though Barge already had 
 
 
 
