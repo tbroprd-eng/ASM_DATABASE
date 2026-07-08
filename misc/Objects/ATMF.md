@@ -6,7 +6,7 @@ Time bubbles created by ATMF are specially engineered  to not be manipulated by 
 ATMF is shaped to be similar to a Glock 17, with its only difference being its color pallet and extensions. The ATMF has a pocket dimension inside its barrel, with this pocket dimension being able to access all points of time, timelines, its metastructure and data provided by ASM researchers. This acts as the thing that is able to create time bubbles in the ATMF.
 
 ### Defensive use
-As said previously, the ATMF can make time fields that would not let any sort of reality bending eldritch being affecting one's person of time, using special manifests of [[CHRONOBOWUS]], these manifests are located in areas where time is repaired by Chro
+As said previously, the ATMF can make time fields that would not let any sort of reality bending eldritch being affecting one's person of time, using special manifests of [[CHRONOBOWUS]], these manifests are located in areas where time is repaired or altered by Chronobowus.  ATMF is and mostly used for defensive purposes.
 
 ### Combat use
 The ATMF is not only for defensive use, but also for offensive use, giving the holder of the ATMF to manipulate time in ways that harms the subject inside the field, using the hidden scroll wheel function that would be able to slow or speed up time in the time field and everything inside it.

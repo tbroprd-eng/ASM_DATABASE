@@ -32,7 +32,7 @@ Despite the government shutdown of his dormitory, Barge was able to stay in UOTS
 ### Middle to present life 
 Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM, with most of it was helping local ally's and nations on 60JNV-X, creating self defense systems such as the immortality-1200, an immortality field and the ROS(Ray of sunshine), a weather air defense system. Barge would also begin to go and look onto the background's of several military and political figures to find any sort of information to blackmail them for resource and power, even though he was already funded by the military, Barge would do it anyway, as a result of Barge finding dirty information of these figures, he would accidentally publish the information on several news blog sites and network forums, causing the Revrinoad Crisis, which made the current universal war worse, with Barge hiding from all sides from all organizations due to is high bounty prize for causing the Revrinoad Crisis. Barge would later cause the battle of Teriandro as a declaration of war to all nations, ally or not. Eventually all nations deemed that he is a threat if not put in either sides and made him do what ever he wanted to do.
 
-After the Artifact war when he was 20, Barge would begin creating a Global empire involving 
+After the Artifact war when he was 20, Barge would begin creating a Global empire involving exploitation and hijacking of the minds of quadrillions of sapient life forms, in which he would use for this plan being a 10 inch solid floating piece of light being able to be warped  by anyone's mind
 
 
 
