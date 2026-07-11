@@ -17,7 +17,8 @@ Xerxion is a High Ranking Officer of [[ASM]], and apart of a secret division for
 
 
 # Early life
-Xerxion was created via a cosmology ray absorber, a device that retrieves  and transports anomalous extraterrestrial objects and life, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system.
+Xerxion was created via a cosmology ray absorber, a device that retrieves  and transports anomalous extraterrestrial objects and life, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system, with his parents being the king and queen, being announced as a "birth of technology" to the populous of Hartatia. Although Xerxion's parents were the king and queen, he would be raised only for fame and recognition of Hartatia due to his origin and how advance Hartatia was at the time, with o
+
 
 
 ### POWERS/ABILITIES[](https://propertyinegypt.fandom.com/wiki/Xerxion?veaction=edit&section=1 "Edit section: POWERS/ABILITIES")

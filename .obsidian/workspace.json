@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/Xerxion.md",
+                "file": "beings/Barge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Xerxion"
+              "title": "Barge"
             }
           },
           {
@@ -235,6 +235,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/Xerxion.md",
     "beings/ETERON.md",
     "beings/Barge.md",
     "beings/xetrixes.md",
@@ -260,7 +261,6 @@
     "misc/Documents/PEICE1.md",
     "misc/Documents/PAGE3PIECE.md",
     "misc/Documents/PAGE2PIECE.md",
-    "misc/Documents/PAGE1HAD4.md",
     "Untitled.base",
     "nj 1.jpg",
     "nj 2.jpg",
