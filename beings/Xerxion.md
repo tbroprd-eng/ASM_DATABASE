@@ -5,19 +5,16 @@ Designation: DIVISION-HTY--████
 Age: 21 years old
 Classification: Incarnated Deity
 Aliases: Xerxion0, Mr. reality, Xavier Earl Reed, 
-	Dimension of Origin: incarnation of [[the cosmic slime]] transported into Universe_████████ via cosmology tube
+	Dimension of Origin: incarnation of [[the cosmic slime]] transported into Universe_████████ via cosmology absorber
 Primary Occupation: High ranking officer and staff of ASM
 Affiliation: [[False Angel Space]], ASM(Agentura Scientifica Multiversalis)
 Core Directive: Eliminate threats that endanger reality
 Current Status: Alive
 
-
-Xerxion is a High Ranking Officer of [[ASM]], and apart of a secret division formed by [[Barge]] called DIVISION-HTY. With Xerxion's role to Protect reality along with others.
-
-
+Xerxion Zalevc(Created in August 4, 2077) is an assigned officer in ASM, specifically designated in Division-HTY-████, being known for eliminating threats that endangered multiple multiverses, he would eliminate threats such as [[GLITCHER]], [[NULL]], and V. 
 
 # Early life
-Xerxion was created via a cosmology ray absorber, a device that retrieves  and transports anomalous extraterrestrial objects and life, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system, with his parents being the king and queen, being announced as a "birth of technology" to the populous of Hartatia. Although Xerxion's parents were the king and queen, he would be raised only for fame and recognition of Hartatia due to his origin and how advance Hartatia was at the time, with o
+Xerxion Zalevc was created via a[^1] cosmology ray absorber on August 4, 2077, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system, with his parents being the king and queen, being announced as a "birth of technology" to the populous of Hartatia. Although Xerxion's parents were the king and queen, he would be raised only for fame and recognition of Hartatia due to his origin and how advance Hartatia was at the time, with o
 
 
 
@@ -33,20 +30,10 @@ and Xerxion can think what he wants to manifest, and the code pops up
 
 Xerxion also has the ability to warp reality in a limited time of 15 seconds, with a cooldown of 2 minutes, but the cooldown can be bypassed via time manipulation
 
-Xerxion also has
 
 
 
-### DOMINIONS
-
-Xerxion has 2 dominions, immovable and unstoppable scythes and heart of the fractals. his first one, immovable and unstoppable scythes are based around the Irresistible force paradox, one used for defense and one for offence. If they collide with each other they will release an explosion powerful as 20 quintillion big bangs. then second dominion, heart of the fractal. This dominion is a physical place but has no barrier. The dominion is activated when Xerxion almost dies or by great injury while summoning a big fractal by a chance 5%. he gains abilities such has the burning ship(gives him fire fractals and make enemies fall down), tree of life(gives the people that got hit by the life fractal healed and have a random op buff) and more.
 
 
-### details
- became a legend in the multiverse, he has speed that cant be measured, his species is [[handaranian]] , hunted by most of the multiverse, born from a cosmology pot that grabs anything that is strange, he was trained early of fighting in the  [[radiational fighting group]] 
-### FEATS
- he de manifested [[VIDO]] absorbed infinite omniverses to make an attack able to erase reality, tank the [[the void]], outlive all of reality
 
-### forms 
-he can turn into a gem like structure, disabling his speed powers but giving him durability and atacks with gem like spears that shatters and injures the opponents body.
-
+[^1]: a device that retrieves  and transports anomalous extraterrestrial objects and life

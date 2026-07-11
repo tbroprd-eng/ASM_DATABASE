@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/Barge.md",
+                "file": "beings/Xerxion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Barge"
+              "title": "Xerxion"
             }
           },
           {
@@ -235,9 +235,9 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/Barge.md",
     "beings/Xerxion.md",
     "beings/ETERON.md",
-    "beings/Barge.md",
     "beings/xetrixes.md",
     "beings/Xetrix-SC.md",
     "beings/Ferlucy.md",
