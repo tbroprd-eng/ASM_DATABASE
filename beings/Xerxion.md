@@ -24,7 +24,7 @@ Xerxion has many abilities such as, a mental wheel that can spin in his brain wh
 
 Xerxions atoms abilities work by Xerxion thinking almost all about the knowledge about the material and location of atoms, in which he can move the atoms via Xerxions mind(It is also to note that Xerxions atom manipulation powers can hold an indefinite amount of atoms and also decreases Xerxions strength the longer and the more amount of atoms he uses.)
 
-During the events of where Xerxion trains his powers and fighting, he gets glasses from Barge on where he can see certain codes that can unlock information about anything, because Xerxions mind can somehow scan certain stuff and unlock information from that, and it has an encyclopedia of those codes of materials, ands Xerxion can upload his own stuff that knows what to make,
+During the events of where Xerxion trains his powers and fighting, he obtains glasses from Barge on where he can view certain codes that can unlock information about anything, and because Xerxions mind can somehow scan certain stuff and unlock information from these codes, and it has an encyclopedia of those codes of materials, ands Xerxion can upload his own codes that  he has the knowledge of what to make,
 and Xerxion can think what he wants to manifest, and the code pops up
 (The glasses have a cooldown so that Xerxion does not lose that much strength during battle.)
 
