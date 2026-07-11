@@ -3,6 +3,6 @@
 
 ### collateral damage
 HTY members are required to prevent or minimize collateral damage to any physical structure and being. This prevents ASM taking legal action and being discovered by 3rd party Government entities or from public populations. If ASM is seen to be discovered by these groups either:
-Erase their planet via [[TLD098]], to prevent spreading of information or manually erase their universe/multiverse if spreading reaches a galactic/Multiversal scale.
+Erase their planet via [[TLD098]], to prevent spreading of information or manually erase their universe/multiverse by Division-HTY member [[Xerxion]] if spreading reaches a galactic/Multiversal scale.
 
-H
+HTY members are allowed to  inflict collateral damage with universes or multiverses if it is necessary to eliminate the threat if it is a 
