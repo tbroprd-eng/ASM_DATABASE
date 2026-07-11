@@ -1,2 +1,2 @@
 #DIVISION-HTY-10 
- 
+ This document contains a list of procedures for specific scenarios assigned to Division HTY members, and will explore on how each member will act on threats who use phycological, spiritual and physical ways of harm and manipulation, 
