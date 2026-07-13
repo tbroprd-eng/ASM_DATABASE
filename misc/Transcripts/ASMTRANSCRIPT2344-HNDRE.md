@@ -1,3 +1,4 @@
+#TRANSCRIPT 
 BRG: Well Xrxn, I have a meeting with this person.
 XRXN: Who? and Why did you bring me CRCHO and FRLCY?
 BRG: This guy I have communicated between realities.
