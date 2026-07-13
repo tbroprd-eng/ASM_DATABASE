@@ -13,4 +13,7 @@ BRG: Then use this data if collected to create more WDM's(Weapons Of Mass Destru
 XRXN: You're risking your organization's cover to be blown, and let another possibly more dangerous organization follow and gang stalk ASM?
 BRG: Yes, but I have backup.
 BRG: Being you, CRCHO and FRLCY.
-BRG: Oh yeah did I forget to mention that they also have a group of people similar to us
+BRG: Oh yeah did I forget to mention that he has connections to people that might hunt us down?
+XRXN: Like soldiers?
+BRG: Nope.
+BRG: 
