@@ -1,6 +1,10 @@
 Time is seen to be a concept no Deity could fight. Governing all universes in a state of natural balance, and having the ability to control anyone who is under its domain, even those who are the DOC of time, they still face the weight and control of Time, as it is not an entity who's body is concept, but rather a force of nature that has the ability of instinct, not reason. Without time holding us, we will have no causality, on where reality breaks from its confusion of order.
  Time's domain is confusing when you see multiple regions of reality being fast, slow, or reversing, but it protects other individuals from the dangers they do not know, this includes timelines, they constantly change and disperse due to actions of multiple events, for this reason, the DOC named [[CHRONOBOWUS]], the God of time presents time travelers and manipulators with an informed consent with constant supervision from all timelines.
- 
+Time is also something that helps construct most civilizations, not just by how it functions alone. Civilizations would create technologies just to measure and tell the time, from intergalactic planning to a simple accessory on your wrist, time is one if not one of the most important concepts that would ever touch anything, everything.
+
+As studies of other realities began recently by BRG via observing them with advance signal interception that excludes concept negation, we have discovered that time in the 8 Realities discovered function nearly in the same rules as this reality, just that timeline merging, legality and other concepts that are local to our reality is absent, often with a different twist of how it works. It is also shocking that they all come from one source of time, all flowing differently but originate everywhere. In short terms, time operates in a multi-reality wide scale in one concept, not concepts that evolve to function like time but rather time consumes anything. Anything that has existed from the past, present to the future. 
+
+
 ### The views
 Time in reality is viewed  by most cultures as a Sacred and Holy concept, being the foundation of everything due to its importance of holding the structure of existence.
 With most cultures, if something Sacred and Holy, they will protect it their blood and tears.
