@@ -25,7 +25,7 @@ We have provided a device that measures time outside these Multiversal borders a
 ![[Screenshot 2026-06-22 190856.jpg]]
 ᴬ(*-0.12 seconds of time observation on empty zone 29999-BNMS each pixel equals time change(reversed, sped up, slowed down, chronological shuffling, Timelines merging/disconnecting, etc. )* As seen here, time in  empty zone 29999-BNMS is rather much chaotic, causality and time freaks out and does what it does best, create what's next, but the problem is that it does not know what to put in order, seen in ᴬ it does these actions due to confusion and unconquered territory, since the emptiness that separates multiverses and omniverses has nothing. 
 
-There are also ways of bypassing the chaos of time in these non-existence places, 
+There are also ways of bypassing the chaos of time in these non-existence places, ways that involve advance teleportation such as the TLPTR-MVTRVL and the WRMCRTR-09N. We will be talking about
 
 ### Timelines 
 Timelines(T) are invisible lines that flow through the time metastructure(HT), with their size being the same as a single hair strand of a modern Homo-Sapien. Regardless of size, these strands contain all timelines for all universes that have potential branches that connect to other timelines, and merging them together, overwriting the previous timelines and universes.![[fffs.png]]
