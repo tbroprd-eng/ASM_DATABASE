@@ -20,9 +20,8 @@ Time travel is mostly made to not be be made in most universes where they do not
 
 ### Emptiness
 For you people who are wondering what are the rules of time in reality where there are no multiverses and omniverses in sight, the empty void of space between them? The simple answer is, it is chaotic and the reason why areas like this are prohibited from entering. Time in empty, areas constantly change unpredictably, moving in ways most mortal or immortal beings cant withstand.
-We have provided a device that measures time outside these Multiversal borders and converts them into Geometric shapes to demonstrate its chaotic Ness. 
-
-![[Screenshot 2026-06-22 190856.jpg]]
+We have provided a device that measures time outside these Multiversal borders and converts them into Geometric shapes to demonstrate its chaotic nature.
+![[Screenshot 2026-06-22 190856.jpg|354]]
 ᴬ(*-0.12 seconds of time observation on empty zone 29999-BNMS each pixel equals time change(reversed, sped up, slowed down, chronological shuffling, Timelines merging/disconnecting, etc. )* As seen here, time in  empty zone 29999-BNMS is rather much chaotic, causality and time freaks out and does what it does best, create what's next, but the problem is that it does not know what to put in order, seen in ᴬ it does these actions due to confusion and unconquered territory, since the emptiness that separates multiverses and omniverses has nothing. 
 
 There are also ways of bypassing the chaos of time in these non-existence places, ways that involve advance teleportation such as the TLPTR-MVTRVL and the WRMCRTR-09N. We will be talking about these 2 devices. TLPTR-MVTRVL(Teleporter Multiversal traveler) is a machine designed for multiversal travel, typically created for mini space transportation vehicles by ASM but can also be used for standard teleportation rooms, with its function teleporting into a specific multiverse on a random universe to prevent [^1]time shredding to the person who activates TLPTR. TLPTR is connected via the Driver/Operators(D/O) brain, where it shows an menu interface if the D/O thinks about using TLPTR, the D/O can manually navigate which multiverse to teleport but not the universe since what was said earlier, you can use a separate software provided along with TLPTR. 
