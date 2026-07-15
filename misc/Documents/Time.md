@@ -26,5 +26,5 @@ We have provided a device that measures time outside these Multiversal borders a
 (*-0.12 seconds of time observation on empty zone 29999-BNMS each pixel equals time change(reversed, sped up, slowed down, chronological shuffling, Timelines merging/disconnecting, etc. )*
 
 ### Timelines 
-Timelines are invisible lines that flow through the time metastructure, with their size being the same as a single hair strand of a modern Homo-Sapien. Regardless of size, these strands contain all timelines for all universes that have potential branches that connect to other timelines, and merge them together, overwriting the previous timelines and universes.![[fffs.png]]
-Timeline merging overwrites universes instantly, so for your point of view on Universe A, you are selling crops on the market, begging for people to purchase your potatoes and carrots when suddenly, your vision, soul and ego is erased, gone. Your brain did not have the time to process what just happened because it is gone.   
+Timelines(T) are invisible lines that flow through the time metastructure(HT), with their size being the same as a single hair strand of a modern Homo-Sapien. Regardless of size, these strands contain all timelines for all universes that have potential branches that connect to other timelines, and merging them together, overwriting the previous timelines and universes.![[fffs.png]]
+T/U(Timeline and Universe) A and T/U B are connected and merged into a new T/U overwriting the two previous universes and creates a new HT, regardless of each scenario 
