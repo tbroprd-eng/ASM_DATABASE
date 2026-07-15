@@ -1,4 +1,4 @@
-d### About 
+
 Name:  Barge Canopus
 True Age: 26
 Classification: Demigod
@@ -27,7 +27,7 @@ When Barge was 7 years old, he would begin to study about nuclear technology, an
 When Barge was about the age of 10, he would research about wormholes, time, gravity and other concepts, with Barge later creating a button that would essentially create portals that would lead to other universes, but with no way of controlling where it leads to. This would give Barge recognition from the University of the Stars(UOTS), including an invitation to their university. This university would boost Barge's intelligence, due to the high level of tasks, courses and lessons provided by the university.
 This would also spark an interest to Barge about programming, with him having no experience until his time at UOTS, where he would  begin creating programs that could shutdown power grids and access multiple devices without any sort of downloading needed, bypassing government anti virus software and firewalls, where Barge's belongings being seized by authorities, despite Barge having no intentions of harming or collecting data for malicious use.
 
-Despite the government shutdown of his dormitory, Barge was able to stay in UOTS for 4 years, due to the universities fear of him suing the Organization and all officials, with the only reason of his departure being to serve for his country for the upcoming artifact war.
+Despite the government shutdown of his dormitory, Barge was able to stay in UOTS for 4 years, due to the universities fear of him suing the Organization and all officials involved with UOTS business, with the only reason of his departure being to serve for his country for the upcoming artifact war.
 
 ### Middle to present life 
 Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM, with most of it was helping local ally's and nations on 60JNV-X, creating self defense systems such as the immortality-1200, an immortality field and the ROS(Ray of sunshine), a planetary-wide weather air defense system. Barge would also begin to go and look onto the background's of several military and political figures to find any sort of information to blackmail them for resources and power, even though he was already funded by the military, Barge would do it anyway, as a result of Barge finding dirty information of these figures, he would accidentally publish the information on several news blog sites and network forums, causing the Revrinoad Crisis, which made the current universal war worse, with Barge hiding from all sides from all organizations due to is high bounty prize for causing the Revrinoad Crisis. Barge would later cause the battle of Teriandro as a declaration of war to all nations, ally or not. Eventually all nations deemed that he is a threat if not put in either side2 and made him do what ever he wanted to do.

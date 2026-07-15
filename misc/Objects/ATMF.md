@@ -1,5 +1,5 @@
 
-Being issued for creation by [[Barge]] to be Developed by [[Terpy]],  the ATMF(Anti-Time Manipulating Field) or Time bubble is a device that is able to create an independent field of time in front of the selected subject, with its duration lasting indefinitely unless ATMF is triggered again on the subject. 
+Being issued for creation by [[BRG]] to be Developed by [[Terpy]],  the ATMF(Anti-Time Manipulating Field) or Time bubble is a device that is able to create an independent field of time in front of the selected subject, with its duration lasting indefinitely unless ATMF is triggered again on the subject. 
 
 Time bubbles created by ATMF are specially engineered  to not be manipulated by external deities or reality warping manipulation. Time Bubbles are also immune to Timeline merging and Timeline manipulation. 
 
