@@ -1,4 +1,4 @@
-Time is seen to be a concept no Deity could fight. Governing all universes in a state of natural balance, and having the ability to control anyone who is under its domain, even those who are the DOC of time, they still face the weight and control of Time, as it is not an entity who's body is concept, but rather a force of nature that has the ability of instinct, not reason. Without time holding us, we will have no causality, on where reality breaks from its confusion of order.
+Time is seen to be a concept no Deity could fight. Governing all universes in a state of natural balance, and having the ability to control anyone who is under its domain, even those who are the DOC's([[deity of concepts]]) of time, they still face the weight and control of Time, as it is not an entity who's body a concept, but rather a force of nature that has the ability of instinct, not reason. Without time holding us, we will have no causality, on where reality breaks from its confusion of order.
  Time's domain is confusing when you see multiple regions of reality being fast, slow, or reversing, but it protects other individuals from the dangers they do not know, this includes timelines, they constantly change and disperse due to actions of multiple events, for this reason, the DOC named [[CHRONOBOWUS]], the God of time presents time travelers and manipulators with an informed consent with constant supervision from all timelines.
 Time is also something that helps construct most civilizations, not just by how it functions alone. Civilizations would create technologies just to measure and tell the time, from intergalactic planning to a simple accessory on your wrist, time is one if not one of the most important concepts that would ever touch anything, everything.
 
@@ -19,11 +19,11 @@ For some cultures and mythology, people and sometime Gods rebelled against the c
 Time travel is mostly made to not be be made in most universes where they do not treat time as a sacred space, to not reach a point where the concept of time implodes in all of existence, but for universes that use time travel responsibly across infinity, they are allowed to use time travel strictly under observation from Chronobowus and [[The Observer]]. 
 
 ### Emptiness
-For you people who are wondering what are the rules of time in reality where there are no multiverses and omniverses in sight, the empty void of space between them? The simple answer is, it is chaotic and the reason why areas like this are prohibited from entering. Time in empty areas constantly change unpredictably, moving in ways most mortal or immortal beings cant withstand.
-We have provided a device that measures time outside these Multiversal borders and converts them into Geometric shapes. 
+For you people who are wondering what are the rules of time in reality where there are no multiverses and omniverses in sight, the empty void of space between them? The simple answer is, it is chaotic and the reason why areas like this are prohibited from entering. Time in empty, areas constantly change unpredictably, moving in ways most mortal or immortal beings cant withstand.
+We have provided a device that measures time outside these Multiversal borders and converts them into Geometric shapes to demonstrate its chaotic Ness. 
 
 ![[Screenshot 2026-06-22 190856.jpg]]
-*-0.12 seconds of time observation on empty zone 29999-BNMS each pixel equals time change(reversed, sped up, slowed down, chronological shuffling, Timelines merging/disconnecting, etc. )*
+(*-0.12 seconds of time observation on empty zone 29999-BNMS each pixel equals time change(reversed, sped up, slowed down, chronological shuffling, Timelines merging/disconnecting, etc. )*
 
 ### Timelines 
 Timelines are invisible lines that flow through the time metastructure, with their size being the same as a single hair strand of a modern Homo-Sapien. Regardless of size, these strands contain all timelines for all universes that have potential branches that connect to other timelines, and merge them together, overwriting the previous timelines and universes.![[fffs.png]]

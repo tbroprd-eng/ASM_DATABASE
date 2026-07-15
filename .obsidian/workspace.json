@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
+                "file": "misc/Documents/Time.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ANOMALOUS STRUCTURE OF ASM"
+              "title": "Time"
             }
           },
           {
@@ -235,8 +235,8 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
-    "misc/Documents/blissful ignorance.md",
     "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
+    "misc/Documents/blissful ignorance.md",
     "misc/Documents/Time.md",
     "ASMTRANSCRIPTRT084SBBEXPDTN1.md",
     "misc/Studies and research/RT084-SBB.md",
