@@ -26,10 +26,14 @@ We have provided a device that measures time outside these Multiversal borders a
 
 There are also ways of bypassing the chaos of time in these non-existence places, ways that involve advance teleportation such as the TLPTR-MVTRVL and the WRMCRTR-09N. We will be talking about these 2 devices. TLPTR-MVTRVL(Teleporter Multiversal traveler) is a machine designed for multiversal travel, typically created for mini space transportation vehicles by ASM but can also be used for standard teleportation rooms, with its function teleporting into a specific multiverse on a random universe to prevent [^1]time shredding to the person who activates TLPTR. TLPTR is connected via the Driver/Operators(D/O) brain, where it shows an menu interface if the D/O thinks about using TLPTR, the D/O can manually navigate which multiverse to teleport but not the universe since what was said earlier, you can use a separate software provided along with TLPTR.
 
-If you want to have 
-
+If you want to have Portability, use the WRMCRTR-09N, it is also a device planted inside your brain, being able to create wormholes that appear below you. These wormholes are engineered to ignore time as a negative force, it also wont contort the Operators body or mental state.   f
 ### Timelines 
 Timelines(Ｔ) are invisible lines that flow through the time metastructure(ＨＴ or Hair Timelines), with their size being the same as a single hair strand of a modern Homo-Sapien. Regardless of size, these strands contain all timelines for all universes that have potential branches that connect to other timelines, and merging them together, overwriting the previous timelines and universes.![[fffs.png]]
-T/U(Timeline and Universe) A and T/U B are connected and merged into a new T/U overwriting the two previous universes and creates a new ＨＴ, regardless of each scenario .  ＨＴ's are usually bundled together into itself(), since ＨＴ's do not have the property to collide onto any physical matter, unless if Chronobowus or any sort of high experienced time manipulator were to touch them, if touched 
+T/U(Timeline and Universe) A and T/U B are connected and merged into a new T/U overwriting the two previous universes and creates a new ＨＴ, regardless of each scenario .  ＨＴ's are usually bundled together into itself(ᗷ𑢼), since ＨＴ's do not have the property to collide onto any physical matter, unless if Chronobowus or any sort of high experienced time manipulator were to touch them, if touched ᗷ𑢼's will have the ability to collide with any material, including themselves, creating [^2]timeline bombs. Timelines are able to create another version of itself when 
+
+
 
 [^1]: Time shredding is a phenomenon where Any physical object that enters a truly empty zone where time is chaotic, bend along with time for an unknown amount of duration till it is erased out of existence
+
+[^2]: Timeline Bombs are Timelines that have the ability to collide with physical or non physical materials, including other ᗷ𑢼's , making other ᗷ𑢼's also collide. Figure out what happens if this were to happen
+	
