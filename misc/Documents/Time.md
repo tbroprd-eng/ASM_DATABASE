@@ -32,8 +32,12 @@ Timelines(Ｔ) are invisible lines that flow through the time metastructure(Ｈ�
 T/U(Timeline and Universe) A and T/U B are connected and merged into a new T/U overwriting the two previous universes and creates a new ＨＴ, regardless of each scenario .  ＨＴ's are usually bundled together into itself(ᗷ𑢼), since ＨＴ's do not have the property to collide onto any physical matter, unless if Chronobowus or any sort of high experienced time manipulator were to touch them, if touched ᗷ𑢼's will have the ability to collide with any material, including themselves, creating [^2]timeline bombs. During the research TimelineTCBV-OPMN, it has been shown that timelines that were scraped from past date to present day are able to function inside simulations, [^3]being accurate to the real timeline 98% of the time. This is now used along with the discovery of the Akashic Record to have 99.9% predict rate on almost every single timeline and action of individuals.
 
 ### Slight exposures of those who were exposed to Time shredding.
-This Topic is about how different subjects would behave and react to minimal if not instant effects of time shredding. Standard procedures being:
-See how the mental stat
+This Topic is about how different subjects would behave and react to minimal if not instant effects of time shredding(𑢼-Ѕ). Standard subject testing  being:
+- See how the mental state of those will be altered from 𑢼-Ѕ
+- See if Limbs were to be affected by 𑢼-Ѕ
+- See if Subjects were to feel pain from 𑢼-Ѕ
+
+
 
 
 [^1]: Time shredding is a phenomenon where Any physical object that enters a truly empty zone where time is chaotic, bend along with time for an unknown amount of duration till it is erased out of existence
