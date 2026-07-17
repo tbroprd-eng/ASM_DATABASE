@@ -44,4 +44,4 @@ This Topic is about how different subjects would behave and react to minimal if 
 
 [^2]: See TMLNERSHR092 designated DOT(Department of Time Research) MP 9 "Timeline Bombs are Timelines that have the ability to collide with physical or non physical materials, including other ᗷ𑢼's , making other ᗷ𑢼's also collide. Recommended to create [[ATMF]]'s automatically if any sort of being were to enter the metastructure of time."
 
-[^3]: TimelineTCBV-OPML shows that timeline AVC(original timeline) and Timeline AVC-2(Timeline copied into simulation) contain similar events in the same date and time.
+[^3]: Seen in TMLNERSHR098 page 27 paragraph 9-10 shows that timeline AVC(original timeline) and Timeline AVC-2(Timeline copied into simulation) contain similar events in the same date and time.
