@@ -54,7 +54,13 @@ ANALASYS REPORT: Subject 459B has suffered little to no physical injury to T-S. 
 ASM researcher Vronmai Zacdaver with permission from IO has given 459B  40mg of methamphetamine and a lethal dose of Cannabis together. Surprisingly, 459B had not died from overdose but rather feel the effects of these drugs multiplied. 459B was questioned by several ASM researchers and given 4 test to see how 459B's mental state had changed.
 
 ###### THE CLOCK DRAWING TEST
-Subject 459B is transported to the office of Dr. Cermko to test his cognitive function with the clock test. 459B is seated in front of Cermko only separated by a mini glass desk. Subject 459B is handed an A4 Bond paper and a 7.5 inch Vefo pencil by Cermko and was gave 459B instructions "Try to draw a round circular clock with its time being 10 minutes after 11". 459B does not say a word and nods and sits for 12 minutes without blinking, later 459B begins to draw the clock, he draws it in a way that is "robotic", drawing from left to right doing it correctly until halfway. He then shifts his pencil to create numerous horizontal lines top to bottom of his half created clock until the pencil ran out of graphite, with 459B requesting for another pencil. After receiving an extra pencil, 459B created drawings of seismic waves horizontally except where the surrounding left and right of the now covered drawing of the clock, on where he would begin to write something in latin.
+Subject 459B is transported to the office of Dr. Cermko to test his cognitive function with the clock test. 459B is seated in front of Cermko only separated by a mini glass desk. Subject 459B is handed an A4 Bond paper and a 7.5 inch Vefo pencil by Cermko and was gave 459B instructions "Try to draw a round circular clock with its time being 10 minutes after 11". 459B does not say a word and nods and sits for 12 minutes without blinking, later 459B begins to draw the clock, he draws it in a way that is "robotic", drawing from left to right doing it correctly until halfway. He then shifts his pencil to create numerous horizontal lines top to bottom of his half created clock until the pencil ran out of graphite, with 459B requesting for another pencil. After receiving an extra pencil, 459B created drawings of seismic waves horizontally except where the surrounding left and right of the now covered drawing of the clock, on where he would begin to write something in Latin.
+"Numquam tempus vidisti vere personae instar agentem — velut beluam furentem ex inferis — quippe quod vi careat partium. Tempus neque nobis adversatur neque nos diligit; potius id agit ad quod creatum est; sed para te: brevi tempore nullam vim significandi habebit."
+When 459B was done, he disappeared.
+
+Subject 459B vanished without any trace on where he went. Studies shown on his drawings shown that he created an almost 1:1 copy of ＨＴ's
+
+
 
 
 
