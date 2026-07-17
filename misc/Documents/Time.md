@@ -49,7 +49,12 @@ SUBJECT 459B DESIGNATED DOT TESTING FOR MENTAL MINDS.
 10:57PM: 459B's head is placed onto the Wormhole
 10:57PM: 459B's head is pulled off wormhole
 
-ANALASYS REPORT: Subject 459B has suffered little to no physical injury to T-S. Along with this, 459B took 7 essays in the span of 3 hours showing no signs of mental decay until the 1 hour and 31 minute mark where he would begin to writing in reversed cursive and speak in reverse too(459B was able to speak normally before the 1 hour and 31 minute mark). 459B is also seen to be twisting his neck exactly 182 degrees when surveyor Jack N. Tommangrab were to not look at 459B or when taking breaks at the 2 hour mark up to 2 hours and 22 minutes, the rest of the surveys showed after this were seen to be normal. ASM researcher Vronmai Zacdaver with permission from IO has given 459B  4 methamphetamine 
+ANALASYS REPORT: Subject 459B has suffered little to no physical injury to T-S. Along with this, 459B took 7 essays in the span of 3 hours showing no signs of mental decay until the 1 hour and 31 minute mark where he would begin to writing in reversed cursive and speak in reverse too(459B was able to speak normally before the 1 hour and 31 minute mark). 459B is also seen to be twisting his neck exactly 182 degrees when surveyor Jack N. Tommangrab were to not look at 459B or when taking breaks at the 2 hour mark up to 2 hours and 22 minutes, the rest of the surveys showed after this were seen to be normal.
+
+ASM researcher Vronmai Zacdaver with permission from IO has given 459B  40mg of methamphetamine and a lethal dose of Cannabis together. Surprisingly, 459B had not died from overdose but rather feel the effects of these drugs multiplied. 459B was questioned by several ASM researchers and given 4 test to see how 459B's mental state had changed.
+
+###### THE CLOCK DRAWING TEST
+Subject 459B is transported to the office of Dr. Cermko to test his cognitive function with the clock test. 459B is seated in front of Cermko only separated by a mini glass desk. Subject 459B is handed an A4 Bond paper and
 
 
 [^1]: Time shredding is a phenomenon where Any physical object that enters a truly empty zone where time is chaotic, bend along with time for an unknown amount of duration till it is erased out of existence
