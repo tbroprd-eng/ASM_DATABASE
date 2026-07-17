@@ -49,7 +49,7 @@ SUBJECT 459B DESIGNATED DOT TESTING FOR MENTAL MINDS.
 10:57PM: 459B's head is placed onto the Wormhole
 10:57PM: 459B's head is pulled off wormhole
 
-ANALASYS REPORT: Subject 459B has suffered little to no physical injury to T-S. Along with this, 459B took 7 essays in the span of 2 hours showing no signs of mental decay until the 1 hour and
+ANALASYS REPORT: Subject 459B has suffered little to no physical injury to T-S. Along with this, 459B took 7 essays in the span of 3 hours showing no signs of mental decay until the 1 hour and 31 minute mark where he would begin to writing in reversed cursive and speak in reverse too(459B was able to speak normally before the 1 hour and 31 minute mark). 459B is also seen to be twisting his neck exactly 182 degrees when surveyor Jack N. Tommangrab were to not look at 459B or when taking breaks at the 2 hour mark up to 2 hours and 22 minutes, the rest of the surveys showed after this were seen to be normal. ASM researcher Vronmai Zacdaver with permission from IO has given 459B  4 methamphetamine 
 
 
 [^1]: Time shredding is a phenomenon where Any physical object that enters a truly empty zone where time is chaotic, bend along with time for an unknown amount of duration till it is erased out of existence
