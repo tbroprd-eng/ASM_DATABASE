@@ -29,13 +29,18 @@ There are also ways of bypassing the chaos of time in these non-existence places
 If you want to have Portability, use the WRMCRTR-09N, it is also a device planted inside your brain, being able to create wormholes that appear below you. These wormholes are engineered to ignore time as a negative force, it also wont contort the Operators body or mental state.   f
 ### Timelines 
 Timelines(Ｔ) are invisible lines that flow through the time metastructure(ＨＴ or Hair Timelines), with their size being the same as a single hair strand of a modern Homo-Sapien. Regardless of size, these strands contain all timelines for all universes that have potential branches that connect to other timelines, and merging them together, overwriting the previous timelines and universes.![[fffs.png]]
-T/U(Timeline and Universe) A and T/U B are connected and merged into a new T/U overwriting the two previous universes and creates a new ＨＴ, regardless of each scenario .  ＨＴ's are usually bundled together into itself(ᗷ𑢼), since ＨＴ's do not have the property to collide onto any physical matter, unless if Chronobowus or any sort of high experienced time manipulator were to touch them, if touched ᗷ𑢼's will have the ability to collide with any material, including themselves, creating [^2]timeline bombs. During the research TimelineTCBV-OPMN, it has been shown that timelines that were scraped from past date to present day are able to function inside simulations, [^3]being accurate to the real timeline 98% of the time. This is now used along with the discovery of the Akashic Record to have 99.9% predict rate on almost every single timeline and action of individuals.
+T/U(Timeline and Universe) A and T/U B are connected and merged into a new T/U overwriting the two previous universes and creates a new ＨＴ, regardless of each scenario .  ＨＴ's are usually bundled together into itself(ᗷ𑢼), since ＨＴ's do not have the property to collide onto any physical matter, unless if Chronobowus or any sort of high experienced time manipulator were to touch them, if touched ᗷ𑢼's will have the ability to collide with any material, including themselves, creating [^2]timeline bombs
+![[KSASDV.png|375]]. During the research TimelineTCBV-OPMN, it has been shown that timelines that were scraped from past date to present day are able to function inside simulations, [^3]being accurate to the real timeline 98% of the time. This is now used along with the discovery of the Akashic Record to have 99.9% predict rate on almost every single timeline and action of individuals.
 
 ### Slight exposures of those who were exposed to Time shredding.
 This Topic is about how different subjects would behave and react to minimal if not instant effects of time shredding(𑢼-Ѕ). Standard subject testing  being:
 - See how the mental state of those will be altered from 𑢼-Ѕ
 - See if Limbs were to be affected by 𑢼-Ѕ
 - See if Subjects were to feel pain from 𑢼-Ѕ
+
+------------------------------------
+SUBJECT 459B DESIGNATED DOT TESTING FOR MENTAL MINDS.
+459B is subjected to enter non existent time planes with ATMF and to be pulled off immediately. ASM scientists 
 
 
 
