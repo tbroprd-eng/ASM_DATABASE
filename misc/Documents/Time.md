@@ -40,9 +40,16 @@ This Topic is about how different subjects would behave and react to minimal if 
 
 ------------------------------------
 SUBJECT 459B DESIGNATED DOT TESTING FOR MENTAL MINDS.
-459B is subjected to enter non existent time planes with ATMF and to be pulled off immediately. ASM scientists 
+459B is subjected to enter non existent time planes(NETP) with ATMF for the amount of time needed and to be pulled off immediately after the time limit is done. ASM scientists an medical divisions are required for standby incase of endangerment of subject 459B's life or any other personnel nearby.
 
+10:47PM: 459B is blasted with A heavy reinforced ATMF.
+10:49PM: 459B is transported to a room with a wormhole connected to a NETP, created by the WRMCRTR-09N.
+10:52PM: Standard safety procedures of all personnel is executed
+10:55PM: Standard procedures completed
+10:57PM: 459B's head is placed onto the Wormhole
+10:57PM: 459B's head is pulled off wormhole
 
+ANALASYS REPORT: Subject 459B has suffered little to no physical injury to T-S. Along with this, 459B took 7 essays in the span of 2 hours showing no signs of mental decay until the 1 hour and
 
 
 [^1]: Time shredding is a phenomenon where Any physical object that enters a truly empty zone where time is chaotic, bend along with time for an unknown amount of duration till it is erased out of existence
