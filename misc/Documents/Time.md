@@ -58,7 +58,9 @@ Subject 459B is transported to the office of Dr. Cermko to test his cognitive fu
 "Numquam tempus vidisti vere personae instar agentem — velut beluam furentem ex inferis — quippe quod vi careat partium. Tempus neque nobis adversatur neque nos diligit; potius id agit ad quod creatum est; sed para te: brevi tempore nullam vim significandi habebit."
 When 459B was done, he disappeared.
 
-Subject 459B vanished without any trace on where he went. Studies shown on his drawings shown that he created an almost 1:1 copy of ＨＴ's
+Subject 459B vanished without any trace on where he went. Studies shown on his drawings shown that he created an almost 1:1 copy of ＨＴ's on plane 20VBK#SDCD. For some reason, 459B came knocking outside Cermko's office, as what Cermko said to us researchers "He was knocking at my door and said something like 'Hello? Helloooo? The ASM people told me to go here'. I saw him vanish right in front of my 9 eyes, i don't know if this is either a prank, a glitch in the matrix or a paradox inside his code" . But even faced with this 459B  Cermko still lets this 459B enter his office and gave 459B the same instructions. 459B is now seen to be drawing like a regular person previous from the last encounter 2 minutes ago, until he 
+
+
 
 
 
