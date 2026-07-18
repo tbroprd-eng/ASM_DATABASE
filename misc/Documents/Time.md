@@ -37,6 +37,7 @@ This Topic is about how different subjects would behave and react to minimal if 
 - See how the mental state of those will be altered from 𑢼-Ѕ
 - See if Limbs were to be affected by 𑢼-Ѕ
 - See if Subjects were to feel pain from 𑢼-Ѕ
+All subjects must be homosapien or a species having similar characteristics from homosapiens physically and mentally, this includes organ structure, mental behavior and soul.
 
 ------------------------------------
 SUBJECT 459B DESIGNATED DOT TESTING FOR MENTAL MINDS.
@@ -63,8 +64,9 @@ Subject 459B vanished without any trace on where he went. Studies shown on his d
 I apologized to those who are reading this, there may have been reality warping attacked by an unknown entity with the ARWD's being turned off for maintenance coincidentally, the last version we were able to recover of this document shows that an endless amount of 459Bs dying when in the stage of drawing were looped specifically nearby Cermko's office, the threat was not noticed until 9 hours since the second loop had appeared, on where when ASM officers arrived to Cermko's office, Cermko was seen lifeless and slumped off his chair, cause of death being emergency suicide pills. DOT has temporarily halted T-S documentation for 9 weeks. 
 
 --------------------------------------------------------
-SUBJECT XCI10 DESIGNATED DOT TESTING FOR LIMB CONDITION WHEN SUBJECTED TO T-S.
-Following the events of Cermko's death, the DOT began testing the effects of T-S on other subjects, this time with extra officers and medical staff monitoring the area nearby.
+SUBJECT XCI10 
+ DESIGNATED DOT TESTING FOR LIMB CONDITION WHEN SUBJECTED TO T-S.
+Following the events of Cermko's death, the DOT began testing the effects of T-S on other subjects, this time with extra officers and medical staff monitoring the area nearby. XCI10 was moved into another testing room with a wormhole connecting to NETP, and was given newly improved ATMF on his left arm. 
 
 
 
