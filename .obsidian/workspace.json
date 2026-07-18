@@ -36,16 +36,6 @@
             }
           },
           {
-            "id": "8de381777a2827e8",
-            "type": "leaf",
-            "state": {
-              "type": "system3-differences-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "system3-differences-view"
-            }
-          },
-          {
             "id": "804b58f58453fc2d",
             "type": "leaf",
             "state": {
@@ -235,6 +225,9 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "misc/Objects/ATMF.md",
+    "Barge.md",
+    "beings/BRG.md",
     "misc/Documents/Time.md",
     "KSASDV.png",
     "beings/Funterna.md",
@@ -250,7 +243,6 @@
     "misc/Transcripts/ASMTRANSCRIPT26752.md",
     "misc/Transcripts/ASMTRANSCRIPT200GTT.md",
     "misc/Transcripts/ASMTRANSCRIPT923-HGB.md",
-    "beings/BRG.md",
     "misc/Documents/PEICE1.md",
     "misc/Documents/PIECE 2.md",
     "misc/Documents/PAGE3PIECE.md",
@@ -260,7 +252,6 @@
     "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
     "misc/Documents/blissful ignorance.md",
     "ASMTRANSCRIPTRT084SBBEXPDTN1.md",
-    "misc/Studies and research/RT084-SBB.md",
     "Untitled.base",
     "nj 1.jpg",
     "nj 2.jpg",
