@@ -18,7 +18,7 @@ This Document is comprised by Barge Canopus himself and 9 other researchers and 
 
 [^1]Barge is also known to be apart of a society that control decisions of what happens to be  for only about 2 years during the age of 24 to 25, with him leaving to run ASM during his age of 25.
 He is also known to be very unpredictable in terms of researching, experimenting, combat and planning, often reaching great lengths to finish goals or fights or even not doing them at all sometimes patching up a problem like a band-aid, ~~inefficient to someone who is said to be the smartest in all of existence~~ I do not such stuff, I am after all the Director of ASM and eliminated at least 3 RC threats with the help of division HTY.
-ASM Director BRG is also viewed to be someone of the innovative side, creating Devices like the [[TLD098]] and the "Ba" 
+ASM Director BRG is also viewed to be someone of the innovative side, creating Devices like the [[TLD098]] and the "Barge Archive" or BA, on which BRG would store everything that he created via Teleportation.
 ### Early life told by gathered data of Barge
 Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parents names were classified, with his mother dying at birth due to her being conceived by VIDO and later with his father committing suicide due to grief. BRG during the his early life from age 3-10 was learning, not in the traditional way of schools or online networks, Barge would learn naturally, where he would learn up to 10 languages at the age of 3 from different regions on his planet, being able to speak of them fluently, with him creating specific extensions for his vocal cords for specific dialects.
 
