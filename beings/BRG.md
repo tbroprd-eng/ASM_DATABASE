@@ -19,6 +19,8 @@ This Document is comprised by Barge Canopus himself and 9 other researchers and 
 [^1]Barge is also known to be apart of a society that control decisions of what happens to be  for only about 2 years during the age of 24 to 25, with him leaving to run ASM during his age of 25.
 He is also known to be very unpredictable in terms of researching, experimenting, combat and planning, often reaching great lengths to finish goals or fights or even not doing them at all sometimes patching up a problem like a band-aid, ~~inefficient to someone who is said to be the smartest in all of existence~~ I do not such stuff, I am after all the Director of ASM and eliminated at least 3 RC threats with the help of division HTY.
 ASM Director BRG is also viewed to be someone of the innovative side, creating Devices like the [[TLD098]] and the "Barge Archive" or BA, on which BRG would store everything that he created via Teleportation.
+
+
 ### Early life told by gathered data of Barge
 Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parents names were classified, with his mother dying at birth due to her being conceived by VIDO and later with his father committing suicide due to grief. BRG during the his early life from age 3-10 was learning, not in the traditional way of schools or online networks, Barge would learn naturally, where he would learn up to 10 languages at the age of 3 from different regions on his planet, being able to speak of them fluently, with him creating specific extensions for his vocal cords for specific dialects.
 
@@ -34,7 +36,7 @@ Despite the government shutdown of his dormitory, Barge was able to stay in UOTS
 ### Middle to present life 
 Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM, with most of it was helping local ally's and nations on 60JNV-X, creating self defense systems such as the immortality-1200, an immortality field and the ROS(Ray of sunshine), a planetary-wide weather air defense system. Barge would also begin to go and look onto the background's of several military and political figures to find any sort of information to blackmail them for resources and power, even though he was already funded by the military, Barge would do it anyway, as a result of Barge finding dirty information of these figures, he would accidentally publish the information on several news blog sites and network forums, causing the Revrinoad Crisis, which made the current universal war worse, with Barge hiding from all sides from all organizations due to is high bounty prize for causing the Revrinoad Crisis. Barge would later cause the battle of Teriandro as a declaration of war to all nations, ally or not. Eventually all nations deemed that he is a threat if not put in either side2 and made him do what ever he wanted to do.
 
-After the Artifact war when he was 20, Barge would begin creating a Global empire involving exploitation and hijacking of the minds of quadrillions of sapient life forms, in which he would use for this plan being a 10 inch solid floating piece of light being able to be warped  by anyone's mind
+After the Artifact war when he was 20, Barge would begin creating a Global empire involving exploitation and hijacking the minds of quadrillions of sapient life forms, with it being a 10 inch solid floating piece of light being able to be warped by the holder of the device
 
 
 
