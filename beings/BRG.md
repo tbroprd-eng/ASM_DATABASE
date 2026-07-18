@@ -9,13 +9,16 @@ Affiliation: MAASM, ASM(Agentura Scientifica Multiversalis), CIAOR
 Core Directive: Document all events, concepts, beings and phenomenon.
 Current Status: Alive
 
-~~(if you are reading this that is not in my whitelist you will be teleported in a private room and to be executed by me personally. And also do not spy on me, I have a hidden code in my skin that will slice a persons head open if deemed a threat.)~~
+~~(if you are reading this that is not in my whitelist you will be teleported in a private room and to be executed by me personally. And also do not spy on me, I have a hidden code in my skin that will slice a persons head open if deemed a threat.)
+
+"Nope, I wont comment on anything."
 
 This Document is comprised by Barge Canopus himself and 9 other researchers and editors.
 
 **Barge Canopus**(born may 25 2072) is the director of ASM, and the smartest biological mortal in all of existence due to his supernatural but natural intelligence and has been handling ASM for 2 years and 5 months, with the record of 400,000,000 confirmed eliminations not including death loops that are threats to realities well being. 
 
-Barge is also known to be apart of a society that control multiverses like a game for only about 2 years during the age of 24 to 25, with him leaving to run ASM during his age of 25.
+Barge is also known to be apart of a society that control decisions of what happens to be  for only about 2 years during the age of 24 to 25, with him leaving to run ASM during his age of 25.
+He is also known to be very unpredictable in terms of researching, experimenting, combat and planning, often reaching great lengths or even not doing
 
 ### Early life told by gathered data of Barge
 Barge Canopus was born in the one of the regions of planet 60JNV-X, who's parents names were classified, with his mother dying at birth due to her being conceived by VIDO and later with his father committing suicide due to grief. BRG during the his early life from age 3-10 was learning, not in the traditional way of schools or online networks, Barge would learn naturally, where he would learn up to 10 languages at the age of 3 from different regions on his planet, being able to speak of them fluently, with him creating specific extensions for his vocal cords for specific dialects.
@@ -62,11 +65,11 @@ By the way fuck you IO, why are you transcribing this, I am trying to tell this 
 	.                                                                     
 	IV: Where and when did you gain owmership of ASM?                     
 	.                                                                     
-	BG: At an elite party, I used to showcase my weapons                  
+	BRG: At an elite party, I used to showcase my weapons                  
 	and inventions all the time, and in one of those days, an old man     
 	 approached me and offered me to run his "buisness". I was drunk at the
 	 time so I accepted the offer, and when I woke up and realised what I 
-	have gotten myself into, so now this is my life                     .
+	have gotten myself into, so now this is my life.                     .
 	.                                                                   
 	IV: Are you scared of death?                                        
 	.                                                                   
