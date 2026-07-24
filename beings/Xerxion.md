@@ -14,7 +14,7 @@ Current Status: Alive
 Xerxion Zalevc(Created in August 4, 2077) is an assigned officer in ASM, specifically designated in Division-HTY-████, being known for eliminating threats that endangered multiple multiverses, he would eliminate threats such as [[GLITCHER]], [[NULL]], and V. 
 
 # Early life
-Xerxion Zalevc was created via a[^1] cosmology ray absorber on August 4, 2077, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system, with his parents being the king and queen, being announced as a "birth of technology" to the populous of Hartatia. Although Xerxion's parents were the king and queen, he would be raised only for fame and recognition of Hartatia due to his origin and how advance Hartatia was at the time, with o
+Xerxion Zalevc was created via a [^1]cosmology ray absorber on August 4, 2077, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system, with his parents being the king and queen, being announced as a "birth of technology" to the populous of Hartatia. Although Xerxion's parents were the king and queen, he would be raised only for fame and recognition of Hartatia due to his origin and how advance Hartatia was at the time, with h
 
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/BRG.md",
+                "file": "beings/Xerxion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BRG"
+              "title": "Xerxion"
             }
           },
           {
@@ -225,9 +225,9 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/BRG.md",
     "misc/Objects/ATMF.md",
     "Barge.md",
-    "beings/BRG.md",
     "misc/Documents/Time.md",
     "KSASDV.png",
     "beings/Funterna.md",
