@@ -3,7 +3,7 @@
 Name: {DATA CORRUPTED BY THIRD PARTY}
 Designation: VOID-001
 Threat Level: {DATA EXPUNGED}
-Classification: Primordial Deity
+Classification: Primordial Deity, RD-077
 Known Aliases: 
 Vector of Origin: Manifestation from a great disturbance to its equilibrium
 Nature of Hazard: Void matter
@@ -17,7 +17,7 @@ Coming from the disturbance from the Great Blooming, VIDO is a one true omnipote
 
 
 ### abilities
-VIDO has the ability to warp, manipulate and rewrite reality, narrative and other meta concepts in a 10 mile radius. With VIDO also being able to influence any sort of Sapient Species and documents  regardless of distance. We also know he has Resistance and possibly immunity to Reality, Narrative and Concept manipulation.
+VIDO has the ability to warp, manipulate and rewrite reality, narrative and other meta concepts in a 10 mile radius. With VIDO also being able to influence any sort of Sapient Species and documents  regardless of distance. We also have the k he has Resistance and possibly immunity to Reality, Narrative and Concept manipulation.
 
 VIDO also possess the ability to create new concepts and laws of reality along with ability to erase existence and replace it with special void matter, with this void matter being able to consume any physical matter.
 
