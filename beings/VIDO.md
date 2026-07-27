@@ -16,12 +16,8 @@ Status: Demanifested(Could remanifest)
 Coming from the disturbance from the Great Blooming, VIDO is a one true omnipotent eldritch being, who can see all in darkness, VIDO is also known to be the origin of evil and the cause of the great [[heavenly war]], causing trillions of deaths from small lifeforms to Gods and universes. 
 
 
-### abilities
-VIDO has the ability to warp, manipulate and rewrite reality, narrative and other meta concepts in a 10 mile radius. With VIDO also being able to influence any sort of Sapient Species and documents  regardless of distance. We also have the k he has Resistance and possibly immunity to Reality, Narrative and Concept manipulation.
-
-VIDO also possess the ability to create new concepts and laws of reality along with ability to erase existence and replace it with special void matter, with this void matter being able to consume any physical matter.
-
-Along with this, people that are close range with VIDO would begin to feel the effects of causality failing to apply to their physical body
+### abilities 
+VIDO is seen to be able to manipulate concepts, reality, narrative and even most metaphysical concepts. Along with being resistant or even immune to attacks associated o
 
 
 ### Personality
