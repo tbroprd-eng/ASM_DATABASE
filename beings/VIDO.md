@@ -19,7 +19,7 @@ Coming from the disturbance from the Great Blooming, VIDO is a one true omnipote
 ### abilities 
 VIDO is seen to be able to manipulate concepts, reality, narrative and even most metaphysical concepts. Along with being resistant or even immune to attacks associated with the abilities said, with its  effectiveness depending base on the light on where the attack takes place. Although VIDO's manipulation weakens from how bright it is, it does not mean you are safe. If someone were to live in the sun or a pulsar, he and everything around it would still be erased, this is because VIDO's abilities are heavily multiplied from all of reality that includes hate, malice, evil, wicked and anything similar, with almost virtually no way to stop this due to the fact that hate and evil exist in all of existence, no matter if for survival, motivation, revenge, ill intent or just the act of hatred in any form. No mater what, VIDO's main power source cannot be cut-out.
 
-There is also another ability VIDO has, influence. He is able to influence anything that can comunicate
+There is also another ability VIDO has, influence. He is able to influence anything that can communicate such as technology, language, voice box and other sorts of objects. Neither less, VIDO can influence and manipulate people regardless of range and light.
 
 
 ### Personality
