@@ -10,7 +10,7 @@ Nature of Hazard: Void matter
 	Core Objective: to reclaim this reality through infecting universes and multiverses into a one big sleeper agent hive mind.
 Status: Demanifested(Could remanifest)
 
-**And you shall consume all the peoples that the Lord your God will give over to you. Your eye shall not pity them, neither shall you serve their gods, for that would be a snare to you.**
+[^1]**And you shall consume all the peoples that the Lord your God will give over to you. Your eye shall not pity them, neither shall you serve their gods, for that would be a snare to you.**
 
 
 Coming from the disturbance from the Great Blooming, VIDO is a one true omnipotent eldritch being, who can see all in darkness, and is known to be the origin of evil and the cause of the great [[heavenly war]], causing trillions of deaths from small lifeforms to Gods and universes. 
@@ -19,27 +19,21 @@ Coming from the disturbance from the Great Blooming, VIDO is a one true omnipote
 ### abilities 
 VIDO is seen to be able to manipulate concepts, reality, narrative and even most metaphysical concepts. Along with being resistant or even immune to attacks associated with the abilities said, with its  effectiveness depending base on the light on where the attack takes place. Although VIDO's manipulation weakens from how bright it is, it does not mean you are safe. If someone were to live in the sun or a pulsar, he and everything around it would still be erased, this is because VIDO's abilities are heavily multiplied from all of reality that includes hate, malice, evil, wicked and anything similar, with almost virtually no way to stop this due to the fact that hate and evil exist in all of existence, no matter if for survival, motivation, revenge, ill intent or just the act of hatred in any form. No mater what, VIDO's main power source cannot be cut-out.
 
-There is also another ability VIDO has, influence. He is able to influence anything that can communicate such as technology, language, voice box and other sorts of objects. Neither less, VIDO can influence and manipulate people regardless of range and light.
+There is also another ability VIDO has, influence. He is able to influence anything that can communicate such as technology, language, voice box and other sorts of objects. Neither less, VIDO can influence and manipulate people regardless of range and light, the cause of this is still unknown.
 
 
 ### Personality
-VIDO does not really enjoy nor admire anything about life, he views life not created by him a disgrace to existence and nature of reality. In VIDO's eyes, everything is inferior, ants, humans, kings, God's and even ancient deities. He does not care about ones situation, not even if they are his closest ally, not even if its his parents, if he ever had one. 
+VIDO does not really enjoy nor admire anything about life, he views life that was not created by him a disgrace to existence and nature of reality. In VIDO's eyes, everything is inferior, ants, humans, kings, God's and even ancient deities. He does not care about ones situation, not even if they are his closest ally, not even if its his parents, if he ever had one. 
 
-Along with VIDOs views of everything being inferior to himself, he would also try to kill or control anyone who opposes him, he knows that they just want a simple life and not getting sucked to this hell hole, he knows when they lie, and he knows that they just want to go back to their parents or wished that they were in their happy place, but VIDO does not care, he would still continue, even if he hears a thousand thoughts racing on someone's head telling themselves on how they don't want to die.
-
-
-
-
-### appearance
-VIDO'S usual appearance changes based on viewers perception of pure evil and darkness, which usually looks like Lovecraftian made Gods, but with multiple occasions, he looks like humanoid being with its entire body engulfed in pure void and its head being a diamond with no face, with 10 tentacles on its back.
+Along with VIDO's views of everything being inferior to himself, he would also try to kill or control anyone who opposes him, he knows that they just want a simple life and not getting sucked to this hell hole, he knows when they lie, and he knows that they just want to go back to their parents or wished that they were in their happy place, but VIDO does not care nor show any empathy, and would rathe  continue, even if he hears a thousand thoughts racing on someone's head telling themselves on how they don't want to die.
 
 ### history
 VIDO was manifested due to [[the great blooming]]  disturbing all darkness and void. VIDO did not have a physical body in the 3rd 4th and up to the 6th dimension when he was manifested, with VIDO usually be staying at the 7d for unknown reasons.
 
-During the creation of a society in true heaven, VIDO was able to go to the 5th dimension, and saw what true heaven looks like. VIDO watched them with pure hatred and insanity that he temporarily broke the 6th dimension and obtained a dominion(We are still figuring out what dominion was thatAA)
+During the creation of a society in true heaven, VIDO was able to go to the 5th dimension, and saw what true heaven looks like. VIDO watched them with pure hatred and insanity that he temporarily broke the 6th dimension and obtained a dominion(We are still figuring out what dominion was.)
 
 ### Vile occurrences.
-There are multiple instances of VIDO manipulating biological life to do his bidding, with VIDO's most common target being humans, due to their nature of being clingy and easily influenced. One time VIDO would pretend to be a deity that would save their family from eternal death or when he would force a person to constantly read to use him as a sacrifice or sometimes he would just make people suicidal and let them die. Why? Probably due to his evil and twisted nature practically emitting onto people thoughts and using them to gain something, which is unknown.
+There are multiple instances of VIDO manipulating biological life to do his bidding, with VIDO's most common target being humans, due to their nature of being clingy and easily influenced. One source suggests VIDO would pretend to be a deity that would save their family from eternal death or when he would force a person to constantly read to use him as a sacrifice or sometimes he would just make people suicidal and let them die. Why? Probably due to his evil and twisted nature practically emitting onto people thoughts and using them to gain something, which is unknown.
 
 
 
@@ -48,3 +42,6 @@ There are multiple instances of VIDO manipulating biological life to do his bidd
 
 ### Weakness
 VIDO only has 1 weakness, light. Light weakens 
+
+[^1]: Deut. 7:16 KJV
+	
