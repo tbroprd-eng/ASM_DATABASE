@@ -1,6 +1,6 @@
 ### About 
 #DIVISION-HTY-10
-Name: Xerxion
+Name: Xerxion Zalevc
 Designation: DIVISION-HTY--████
 Age: 21 years old
 Classification: Incarnated Deity
@@ -11,10 +11,14 @@ Affiliation: [[False Angel Space]], ASM(Agentura Scientifica Multiversalis)
 Core Directive: Eliminate threats that endanger reality
 Current Status: Alive
 
+"I do not care if I was made purely because a deity was trying to hide, "
+
 Xerxion Zalevc(Created in August 4, 2077) is an assigned officer in ASM, specifically designated in Division-HTY-████, being known for eliminating threats that endangered multiple multiverses, he would eliminate threats such as [[GLITCHER]], [[NULL]], and V. 
 
 # Early life
-Xerxion Zalevc was created via a [^1]cosmology ray absorber on August 4, 2077, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system, with his parents being the king and queen, being announced as a "birth of technology" to the populous of Hartatia. Although Xerxion's parents were the king and queen, he would be raised only for fame and recognition of Hartatia due to his origin and how advance Hartatia was at the time, with h
+Xerxion Zalevc was created via a [^1]cosmology ray absorber on August 4, 2077, and was raised in the country of Hartatia, a country who at the time was ruled under a monarchy system with the access of galaxy trade [^2]having most amount of GDP compared to other nations universally, with his parents being the king and queen, being announced as a "birth of technology" to the populous of Hartatia. Although Xerxion's parents were the king and queen, he would be raised only for fame and recognition of Hartatia due to his origin and how advance Hartatia was at the time, with him behind the scenes being mistreated by maids, guards and even his parents.
+
+At the ages of 1-4 Xerxion would be raised to think fame is everything and anything that he can only do, being seen to occasionally bleed into his personality during recent transcripts of operations
 
 
 
@@ -36,4 +40,6 @@ Xerxion also has the ability to warp reality in a limited time of 15 seconds, wi
 
 
 
-[^1]: a device that retrieves  and transports anomalous extraterrestrial objects and life
+[^1]: a device that retrieves  and transports anomalous extraterrestrial objects and life.
+
+[^2]: Natversals "The CIVI" awards Hartatia as the for having the largest amount of GDP for a decade straight.
