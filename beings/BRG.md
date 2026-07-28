@@ -36,14 +36,7 @@ Despite the government shutdown of his dormitory, Barge was able to stay in UOTS
 ### Middle to present life 
 Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM, when most of it was helping local ally's and nations on 60JNV-X, creating self defense systems such as the immortality-1200, an immortality field and the ROS(Ray of sunshine), a planetary-wide weather air defense system. Barge would also begin to go and look onto the background's of several military and political figures to find any sort of information to blackmail them for resources and power, even though he was already funded by the military, Barge would do it anyway, as a result of Barge finding dirty information of these figures, he would accidentally publish the information on several news blog sites and network forums, causing the Revrinoad Crisis, which made the current universal war worse, with Barge hiding from all sides from all organizations due to is high bounty prize for causing the Revrinoad Crisis. Barge would later cause the battle of Teriandro as a declaration of war to all nations, ally or not. Eventually all nations deemed that he is a threat if not put in either side2 and made him do what ever he wanted to do.
 
-After the Artifact war when he was 20, Barge would begin creating a Global empire involving exploitation and hijacking the minds of quadrillions of sapient life forms, being a 10 inch solid floating piece of light being able to be warped by the holder of the device, but with these good qualities come something in exchange. The terms in conditions when registering the LMC(Light Manipulating Cube),[^2] you would agree for the creator of LMC to "gather and use data from the users brain" in any time anywhere, leading all of its users to have their brain and energy harvested and transported to Barge Canopus, increasing his intelligence, physical strength and mental capacity,  
-
-
-
-
-
-
-
+After the Artifact war when he was 20, Barge would begin creating a Global empire involving exploitation and hijacking the minds of quadrillions of sapient life forms, being a 10 inch solid floating piece of light being able to be warped by the holder of the device, but with these good qualities come something in exchange. The terms in conditions when registering the LMC(Light Manipulating Cube),[^2] you would agree for the creator of LMC to "gather and use data from the users brain" in any time anywhere, leading all of its users to have their brain and energy harvested and transported to Barge Canopus, increasing his intelligence, physical strength and mental capacity. [^3]Barge would later be a Defendant in a class-action lawsuit launched by relatives and survivors of the LMC, and won gaining an undisclosed amount of currency.
 
 ### Life from birth to present day, transcribed from what BRG claims
 For as long as I can remember, from the day I was born that I was smart. I learned 10 languages at 3, learned how to make weapons that could destroy a small continent that does not involve nuclear and bombing technology,  and created inter-dimensional travel at 10, seen by my estimated IQ being 10,000 during that age.
@@ -114,4 +107,7 @@ By the way fuck you IO, why are you transcribing this, I am trying to tell this 
 [^1]: See Secret societies of the cosmos page 89 "Members of the most obscure Society "
 
 [^2]: See T&Cs of LMC ver-7.9.0 The Multiversal Archive
+	
+
+[^3]: Universe 6b,541c and 8900mn-X v. LMC Inc.
 	
