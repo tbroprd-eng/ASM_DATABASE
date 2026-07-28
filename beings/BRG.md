@@ -34,9 +34,9 @@ This would also spark an interest to Barge about programming, with him having no
 Despite the government shutdown of his dormitory, Barge was able to stay in UOTS for 4 years, due to the universities fear of him suing the Organization and all officials involved with UOTS business, with the only reason of his departure being to serve for his country for the upcoming artifact war.
 
 ### Middle to present life 
-Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM, with most of it was helping local ally's and nations on 60JNV-X, creating self defense systems such as the immortality-1200, an immortality field and the ROS(Ray of sunshine), a planetary-wide weather air defense system. Barge would also begin to go and look onto the background's of several military and political figures to find any sort of information to blackmail them for resources and power, even though he was already funded by the military, Barge would do it anyway, as a result of Barge finding dirty information of these figures, he would accidentally publish the information on several news blog sites and network forums, causing the Revrinoad Crisis, which made the current universal war worse, with Barge hiding from all sides from all organizations due to is high bounty prize for causing the Revrinoad Crisis. Barge would later cause the battle of Teriandro as a declaration of war to all nations, ally or not. Eventually all nations deemed that he is a threat if not put in either side2 and made him do what ever he wanted to do.
+Barge during his teenager years of age 13-19 was his highest point of dedication of anything pre ASM, when most of it was helping local ally's and nations on 60JNV-X, creating self defense systems such as the immortality-1200, an immortality field and the ROS(Ray of sunshine), a planetary-wide weather air defense system. Barge would also begin to go and look onto the background's of several military and political figures to find any sort of information to blackmail them for resources and power, even though he was already funded by the military, Barge would do it anyway, as a result of Barge finding dirty information of these figures, he would accidentally publish the information on several news blog sites and network forums, causing the Revrinoad Crisis, which made the current universal war worse, with Barge hiding from all sides from all organizations due to is high bounty prize for causing the Revrinoad Crisis. Barge would later cause the battle of Teriandro as a declaration of war to all nations, ally or not. Eventually all nations deemed that he is a threat if not put in either side2 and made him do what ever he wanted to do.
 
-After the Artifact war when he was 20, Barge would begin creating a Global empire involving exploitation and hijacking the minds of quadrillions of sapient life forms, with it being a 10 inch solid floating piece of light being able to be warped by the holder of the device, but with these good qualities come something in exchange. The terms in conditions when registering the LMC(Light Manipulating Cube) come with a 
+After the Artifact war when he was 20, Barge would begin creating a Global empire involving exploitation and hijacking the minds of quadrillions of sapient life forms, being a 10 inch solid floating piece of light being able to be warped by the holder of the device, but with these good qualities come something in exchange. The terms in conditions when registering the LMC(Light Manipulating Cube),[^2] you would agree for the creator of LMC to "gather and use data from the users brain" in any time anywhere, leading all of its users to have their brain and energy harvested and transported to Barge Canopus, increasing his intelligence, physical strength and mental capacity,  
 
 
 
@@ -46,13 +46,13 @@ After the Artifact war when he was 20, Barge would begin creating a Global empir
 
 
 ### Life from birth to present day, transcribed from what BRG claims
-For as long as I can remember, from the day I was born that I was smart. I learned 10 languages at 3, learned how to make weapons that could destroy a small continent that does not involve nuclear and bombing technology,  and created inter-dimensional travel at 10, with my estimated IQ being 10,000 during that age.
+For as long as I can remember, from the day I was born that I was smart. I learned 10 languages at 3, learned how to make weapons that could destroy a small continent that does not involve nuclear and bombing technology,  and created inter-dimensional travel at 10, seen by my estimated IQ being 10,000 during that age.
 
 During the Artifact war, I became a scientist and researcher, making weapons and finding new ways to defend multiple countries a at the age of 16. I heavily helped multiple countries and civilizations at the time, making some of them  type 4 civilizations on the Kardashev scale, I was held title for "Smartest biological mortal across multiverses" I was somehow mad at the time for not accomplishing to be the smartest in existence.
 
 At the age of 21, I joined a Reality wide Secret society, going to all their meetings and climbing the ladder. I didn't really want to hold the responsibility for multiple people yet, so I just made sure I could not rank up.
 
-When I was 25 during the new year, I was in one of those parties that the secret society held one in a while, and a old man approached me, I have never seen him in my life, he asked me to run his business, I agreed, and when I woke up, I was in a office with a manual teaching me the basics on how to run this place, I got the hang of it the first hour, I did not need to use the manual no more, that was when I was running ASM. For some reason after I joined ASM, my lifespan would decrease if I used most of my brain power for thinking. I am currently looking for a cure.
+When I was 25 during the new year, I was in one of those parties that the secret society held one in a while, and a old man approached me, I have never seen him in my life, he asked me to run his business, I agreed, and when I woke up, I was in a office along with a manual teaching me the basics on how to run this place, I got the hang of it the first hour, I did not need to use the manual no more, that was when I was running ASM. For some reason after I joined ASM, my lifespan would decrease if I used most of my brain power for thinking. I am currently looking for a cure.
 
 Also I have done research of the origin of my birth and realized that I was a direct offspring of VIDO, where he made my mother conceive without any sort of sexual intercourse, with this also explaining why she died. 
 
@@ -112,3 +112,6 @@ By the way fuck you IO, why are you transcribing this, I am trying to tell this 
  
 
 [^1]: See Secret societies of the cosmos page 89 "Members of the most obscure Society "
+
+[^2]: See T&Cs of LMC ver-7.9.0 The Multiversal Archive
+	
