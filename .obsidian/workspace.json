@@ -11,10 +11,14 @@
             "id": "a6fe9a2edf9c58fc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "beings/Cracho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cracho"
             }
           },
           {
@@ -223,6 +227,11 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/handaranian.md",
+    "beings/HALLOWGEN.md",
+    "beings/GLITCHER.md",
+    "beings/ETERON.md",
+    "beings/Cracho.md",
     "misc/CONNECTIONS.canvas",
     "beings/BRG.md",
     "misc/VIS.md",
@@ -233,19 +242,15 @@
     "misc/Documents/STANDARD PROCEDURES DIVISION-HTY.md",
     "misc/Documents/Time.md",
     "misc/Documents/THE RESSURECTION.md",
-    "beings/Cracho.md",
     "beings/Xerxion.md",
     "beings/Xatrix.md",
     "beings/Lovya.md",
-    "beings/ETERON.md",
     "beings/The Observer.md",
     "beings/the cosmic slime.md",
     "beings/radeon.md",
     "beings/NULL.md",
     "beings/False Angels.md",
     "beings/Aremia.md",
-    "beings/HALLOWGEN.md",
-    "beings/handaranian.md",
     "beings/Funterna.md",
     "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
     "beings/ܘܪܕܐ.md",
