@@ -12,9 +12,6 @@ BRG: Buy it, own it, steal it. Whatever it takes to get one of these.
 BRG: And after that I would analyze its functions, how it lives.
 BRG: Then use this data if collected to create more WDM's(Weapons Of Mass Destruction).
 XRXN: You're risking your organization's cover to be blown, and let another possibly more dangerous organization follow and gang stalk ASM?
-BRG: Yes, but I have backup.
-BRG: Being you, CRCHO and FRLCY.
-BRG: Oh yeah did I forget to mention that he has connections to people that might hunt us down?
-XRXN: Like soldiers?
-BRG: Nope.
-BRG: 
+BRG: Yep
+BRG: But not really. He only has a few weak people in his alliance.
+XRXN: Oh ok.
