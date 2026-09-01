@@ -1,4 +1,4 @@
-Name:  Barge Canopus
+			Name:  Barge Canopus
 True Age: 26
 Classification: Demigod
 Aliases: BRG, BG,  
