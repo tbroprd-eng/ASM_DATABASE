@@ -52,6 +52,9 @@ Also I have done research of the origin of my birth and realized that I was a di
 By the way fuck you IO, why are you transcribing this, I am trying to tell this to Xerxion.
 
 
+### The John
+
+
  
 	Interview 344.                                                        
 	.                                                                      
