@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/BRG.md",
+                "file": "beings/Cracho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BRG"
+              "title": "Cracho"
             }
           },
           {
@@ -227,6 +227,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/BRG.md",
     "misc/Documents/Time.md",
     "misc/Studies and research/RT084-SBB.md",
     "misc/Studies and research/RT084.md",
@@ -252,7 +253,6 @@
     "misc/Transcripts/ASMTRANSCRIPT111999-MCNOA.md",
     "misc/Transcripts/ASMTRANSCRIPTRT084SBB.md",
     "misc/Transcripts/ASMTRANSCRIPT2344-HNDRE.md",
-    "misc/Transcripts/ASMTRANSCRIPT87300-MMM.md",
     "misc/CONNECTIONS.canvas",
     "KSASDV.png",
     "Untitled.base",
