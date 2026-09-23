@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Documents/Time.md",
+                "file": "misc/Documents/STANDARD PROCEDURES DIVISION-HTY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Time"
+              "title": "STANDARD PROCEDURES DIVISION-HTY"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Documents/Time.md",
+                "file": "misc/Documents/STANDARD PROCEDURES DIVISION-HTY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,8 +217,9 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
-    "misc/Documents/The Xetrix Armed Forces.md",
+    "misc/Documents/UNKNOWN SCRIPTURE OF V.md",
     "misc/Documents/Time.md",
+    "misc/Documents/The Xetrix Armed Forces.md",
     "misc/ELDOPHEDIAC MISC/ASMTRANSCRIPT092-ELD.md",
     "misc/ELDOPHEDIAC MISC/ELDOPHEDIAC WEBCRAWL001.md",
     "misc/Objects/ATMF.md",
@@ -242,7 +243,6 @@
     "misc/Objects/the painting.md",
     "misc/Objects/IO.md",
     "misc/Documents/MUW.md",
-    "misc/Documents/PAGE1HAD4.md",
     "misc/CONNECTIONS.canvas",
     "KSASDV.png",
     "Untitled.base",
