@@ -211,10 +211,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff8ff0ff0919d64a",
+  "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
     "beings/CHRONOBOWUS.md",
     "beings/BRG.md",
