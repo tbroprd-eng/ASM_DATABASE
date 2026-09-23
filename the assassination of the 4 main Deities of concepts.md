@@ -1,1 +1,1 @@
-The assassination of the 4 main [[deity of concepts]] took place at their meeting rooms just after [[VIDO]] was released by [[ETERON]]. They would all raised their concerns with the unsealing of VIDO for 4 minutes and 25 seconds, when in the final 25 
+The assassination of the 4 main [[deity of concepts]] took place at their meeting rooms just after [[VIDO]] was released by [[ETERON]]. They would all raised their concerns with the unsealing of VIDO for 4 minutes and 25 seconds, when in the final 25 seconds would
