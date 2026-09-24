@@ -10,8 +10,7 @@ Core Objective: Total destruction of anyone who manifests him
 Status: Eliminated
 
 Null is a non-existent entity, 
-being able to kill everyone in a 10-mile radius if a concept of Null was Manifested into reality. Null can manifest into reality if 5-10 people were:
-
+being able to kill everyone in a 10-mile radius if a concept of Null was Manifested into reality. Null can manifest into reality if 5-10 people are:
 •Writing it into a physical plane
 •Having the Thought/Idea about Null 
 •Depicting it with Visual Arts

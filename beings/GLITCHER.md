@@ -8,9 +8,7 @@ Vector of Origin: Death of ████
 Nature of Hazard: corruption 
 Status: Eliminated
 
-The Glitcher  is an anomaly comprised out of things that are either mistakes or physical matter Glitcher corrupted.
-
-
+The Glitcher is an anomaly comprised out of things that are either mistakes or physical matter that Glitcher corrupted.
 ### RANDOMIZATION  
 The Glitcher contains the ability to randomize areas of reality in a 100ft radius with the following aspects that changes when he uses said ability.
 
