@@ -11,4 +11,6 @@ Status: Taken into custody by ASM division TCU-MNC
 The Peers are reality bending cosmic beings who's goal or at least their amusement is to trick those who think that they know about the universe or time. Their powers consist of time and reality manipulation, which they use for said entertainment. 
 
 ### Origin
-The Peers originated in an dimension where greed was a necessity for living. They were not the God living tricksters in the beginning, rather both of them were chiefs in their town. They lived off ordering people to give or steal jewelry 
+The Peers originated in an dimension where greed was a necessity for living. They were not the God living tricksters in the beginning, rather both of them were chiefs in their town in a lone planet in the middle of the 452WKJ system. Both of them lived off ordering people to give or steal jewelry from the rich or wealthy space travelers without any exchange back to the citizens, selling them for money or bribe certain authorities. As time passed for 30 years, the citizens would begin to secretly plan a revolt against the 2 chiefs, with the codename being "Just for 25 fraps", where they planned to storm in to the chief's palace to execute them along with stealing all the items and artifacts they were forced to give to the chief. 
+
+When the plan for this revolt was about to be executed, an 80 year old man would give an artifact to both of the chiefs
