@@ -40,7 +40,7 @@ After the Artifact war when he was 20, Barge would begin creating a Global empir
 
 ### Mistakes Barge made in ASM
 #### INCIDENT #1 
-B
+Barge orders several divisions to execute the [[Ferawelch  Heist]], later forgetting to inform half of the 6 divisions to deploy to their respective area, this would later cause half of the divisions to be wiped out by several multiversal crisis individuals who escaped during another mistake that Barge made for Division-HTY, where one of the members accidentally drilled a hole that connects to one of the captured individuals, who were coincidentally able to change their body form, escaped and freed other captured individuals. Nevertheless, the heist was a success, with division-HTY retrieving the material, giving it to Barge in return of a 2 month vacation to a place of their choosing.
 
 ### Life from birth to present day, transcribed from what BRG claims
 For as long as I can remember, from the day I was born that I was smart. I learned 10 languages at 3, learned how to make weapons that could destroy a small continent that does not involve nuclear and bombing technology,  and created inter-dimensional travel at 10, seen by my estimated IQ being 10,000 during that age.
