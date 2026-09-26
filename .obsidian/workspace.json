@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/BRG.md",
+                "file": "beings/False Angels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BRG"
+              "title": "False Angels"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beings/BRG.md",
+                "file": "beings/False Angels.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,6 +217,9 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/Ferlucy.md",
+    "beings/False Angels.md",
+    "beings/BRG.md",
     "beings/NULL.md",
     "beings/the Grabber.md",
     "beings/xetrixes.md",
@@ -231,8 +234,6 @@
     "beings/radeon.md",
     "beings/Lovya.md",
     "beings/Aremia.md",
-    "beings/BRG.md",
-    "beings/False Angels.md",
     "beings/ETERON.md",
     "beings/handaranian.md",
     "beings/Cracho.md",
@@ -242,7 +243,6 @@
     "misc/Documents/PIECE 2.md",
     "misc/Documents/PEICE1.md",
     "misc/Documents/STANDARD PROCEDURES DIVISION-HTY.md",
-    "misc/Documents/UNKNOWN SCRIPTURE OF V.md",
     "misc/CONNECTIONS.canvas",
     "KSASDV.png",
     "Untitled.base",

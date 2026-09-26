@@ -18,6 +18,5 @@ Ferlucy is also one of 5 with the essence of true life, given by the true embodi
 
 
 ### ORIGIN
-Ferlucy is the 35th Xetrix to be made in existence and was the Commander and Chief of XAF(below the rank of [[Xatrix]]), leading 10b [[xetrixes]] to war during the [[heavenly war]]. 
+Ferlucy is the 35th Xetrix to be manifested in existence and was the Commander and Chief of XAF(below the rank of [[Xatrix]]), leading 10b [[xetrixes]] to war during the [[heavenly war]]. 
 
-After the Heavenly War, Ferlucy wandered all across reality with no purpose
