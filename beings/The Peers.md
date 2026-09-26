@@ -17,4 +17,4 @@ The chiefs would show their authoritative figure by ordering local citizens or c
 They would use these illegally obtained jewelry and artifacts either for show offs or selling, buying, and investment purposes.
 As time passed for 30 years, the citizens would begin to secretly plan a revolt against the 2 chiefs, with the codename being "Just for 25 fraps", where they planned to storm in to the chief's palace to execute them along with stealing all the items and artifacts they were forced to give to the chief. 
 
-Before the plan of the citizens were about to start, an unknown individual would give both chiefs an artifact that would grant its holders God like powers. After the chiefs gained there new powers of class-5 reality bending and omniscient powers, they would discover the citizens plans immediately, and erased them from existence
+Before the plan of the citizens were about to start, an unknown individual would give both chiefs an artifact that would grant its holders God like powers. After the chiefs gained there new powers of class-5 reality bending and omniscient powers, they would discover the citizens plans immediately, and erased them from existence.
