@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Documents/blissful ignorance.md",
+                "file": "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blissful ignorance"
+              "title": "ANOMALOUS STRUCTURE OF ASM"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Documents/blissful ignorance.md",
+                "file": "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,6 +217,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "misc/Documents/blissful ignorance.md",
     "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
     "beings/BRG.md",
     "beings/Aremia.md",
@@ -242,7 +243,6 @@
     "beings/radeon.md",
     "beings/Lovya.md",
     "beings/ETERON.md",
-    "beings/handaranian.md",
     "misc/CONNECTIONS.canvas",
     "KSASDV.png",
     "Untitled.base",
