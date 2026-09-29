@@ -1,2 +1,1 @@
-### ABOUT
-ASM's main facility is
+ASM's main facility has experienced multiple anomalies with its structure constantly changing ever since it appeared with its owner. Several expeditions were proposed by the previous 2 owners of ASM, with both of them rejecting them for unknown reasons. A few documented unauthorized expeditions state the facility goes on forever, constantly making new rooms, shuffling them, and even removing them. While they provide detail to what
