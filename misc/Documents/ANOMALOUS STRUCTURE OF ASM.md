@@ -3,3 +3,8 @@ As of 2 months ago with the approval of [[BRG]], an official investigation and e
 
 ### Requests and Info
 Before the main expedition of ASM, BRG requested several departments to support the crew that will lead the exploration. This includes notable departments such as the Department of Search and Rescue, Department of Aid and Virtue, and the Department of Anomalous Research. 
+The Crew for the expedition contained up to 25 individuals from multiple divisions such as a few members from Division-HTY and CTMZ1. The members in this crew are listed as it follows in order along with roles and a quick summery of their background and past operations:
+
+[[Xerxion]] - A part of the [[Ferawelch Heist]]
+[[Cracho]]- 
+M,K01(Jeffry Hopes)-
