@@ -15,7 +15,8 @@ Kadimo Verno - A demolition and analyzer expert. Not much is known about this pe
 
 [[Ferlucy]]- The third guard for the commander. BRG planned to set her as the commander, but was denied since she took many commander roles recently in multiple operations.
 
-B
+
+
 
 
 
