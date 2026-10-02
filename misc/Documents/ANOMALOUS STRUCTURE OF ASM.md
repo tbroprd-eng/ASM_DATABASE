@@ -11,9 +11,13 @@ The Crew for the expedition contained up to 25 individuals from multiple divisio
 
 M,K01(Helener Mundane)- The main commander for this expedition. She has directed multiple successful attacks and assassinations throughout the multiverse.  
 
-Kadimo Verno - A demolition and analyzer expert. Not much is known about this person other that he comes from Earth and was able to do full-proof plans with demolition.
+Kadimo Verno - A demolition expert. Not much is known about this person other that he comes from Earth and was able to do full-proof plans with his demolition skills.
 
 [[Ferlucy]]- The third guard for the commander. BRG planned to set her as the commander, but was denied since she took many commander roles recently in multiple operations.
+
+YNUKHAN- She is the top researcher for the expedition, studying about the structures of ASM for about 4 years. Documents about the structures were used for this article and expedition.
+
+### EXPED
 
 
 
