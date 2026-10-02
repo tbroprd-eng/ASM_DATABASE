@@ -17,7 +17,11 @@ Kadimo Verno - A demolition expert. Not much is known about this person other th
 
 YNUKHAN- She is the top researcher for the expedition, studying about the structures of ASM for about 4 years. Documents about the structures were used for this article and expedition.
 
-### EXPED
+### EXPEDITION 1
+#### First 5 hours
+The first 5 hours were about planning on what to do for each scenario encountered throughout the way, being planned by the 6 main people. 
+The plan consisted on all the members following the commander to explore about 1 million miles of the structure.
+
 
 
 
