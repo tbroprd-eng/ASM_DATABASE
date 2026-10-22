@@ -12,7 +12,7 @@ Additional symptoms include
 •insanity
 •loss of your senses 
 •body tissue falling off
-•parts of your limbs become dead
+•parts of your limbs being non responsive
 
 ### Causes
 VIS is caused by prolonged exposure to void matter, approximately 7 months of small exposure everyday and 7 minutes if in a 20ft radius or less. You can also gain VIS via physical touch of void matter and the body fully absorbing it. Or if you were to look at [[VIDO]] 
