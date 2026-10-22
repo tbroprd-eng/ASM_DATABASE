@@ -20,7 +20,7 @@ YNUKHAN- She is the top researcher for the expedition, studying about the struct
 ### EXPEDITION 1
 #### First 5 hours
 The first 5 hours were about planning on what to do for each scenario encountered throughout the way, being planned by the 6 main people. 
-The plan consisted on all the members following the commander to explore about 1 million miles of the structure, with 
+The plan consisted on all the members following the commander to explore about 1 million miles of the structure, with   
 
 
 
