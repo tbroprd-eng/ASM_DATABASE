@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/NULL.md",
+                "file": "beings/BRG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NULL"
+              "title": "BRG"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beings/NULL.md",
+                "file": "beings/BRG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,6 +217,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "beings/NULL.md",
     "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
     "misc/Documents/blissful ignorance.md",
     "misc/Documents/EMAIL2900.md",
@@ -242,7 +243,6 @@
     "beings/the Grabber.md",
     "misc/Documents/PIECE 2.md",
     "beings/BRG.md",
-    "beings/Aremia.md",
     "misc/Documents/Untitled document (1)-1.png",
     "Untitled.canvas",
     "Screenshot 2026-06-24 182351.jpg",

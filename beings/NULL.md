@@ -9,9 +9,9 @@ Nature of Hazard: Physical Info Hazard
 Core Objective: Total destruction of anyone who manifests him
 Status: Eliminated
 
-Null is a non-existent entity that is able to vaporize anything in a 1000-mile radius if a person were to explain the concept of Null(The concept for Null is heavily guarded due to similar entities getting sucked into concepts)
+Null is a non-existent entity that is able to vaporize anything in a 10000-mile radius if a person were to explain the concept of Null(The concept for Null is heavily guarded due to similar entities getting sucked into concepts)
 
-Null's main way of vaporizing its surroundings is it falling down right on top of the person who explains the concept at 3x the speed of light.
+Null's main way of vaporizing its surroundings is it falling down right on top of the person who explains the concept at 3141x the speed of light.
 
 people are able to manifest the concept of null by:
 •Writing it into a physical plane
