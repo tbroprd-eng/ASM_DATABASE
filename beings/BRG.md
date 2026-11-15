@@ -68,7 +68,8 @@ By the way fuck you IO, why are you transcribing this, I am trying to tell this 
 	.                                                                     
 	BRG: At an elite party, I used to showcase my weapons                  
 	and inventions all the time, and in one of those days, an old man     
-	 approached me and offered me to run his "buisness". I was drunk at the
+	 approached me and offered me to run his "bui
+	 sness". I was drunk at the
 	 time so I accepted the offer, and when I woke up and realised what I 
 	have gotten myself into, so now this is my life.                     .
 	.                                                                   

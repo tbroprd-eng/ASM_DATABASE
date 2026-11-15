@@ -15,7 +15,7 @@ The Glitcher contains the ability to randomize areas of reality in a 100ft radiu
 • Deletion of a random spot of existence
 • Add, Remove, rewrite and swap concepts 
 • Rewrite the narrative
-• Corrupt areas of reality 
+• 1 areas of reality 
 • swap all solid, liquid and gas  ,
 • alter biological life
 
