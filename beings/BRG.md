@@ -16,7 +16,7 @@ This Document is comprised by Barge Canopus himself and 9 other researchers and 
 
 **Barge Canopus**(born may 25 2072) is the director of ASM, and the smartest biological mortal in all of existence due to his supernatural but natural intelligence and has been handling ASM for 2 years and 5 months, with the record of 400,000,000 confirmed eliminations not including death loops that are threats to realities well being. 
 
-[^1]Barge is also known to be apart of a society that control decisions of what happens to be  for only about 2 years during the age of 24 to 25, with him   to run ASM during his age of 25.
+[^1]Barge is also known to be apart of a society that control decisions of what happens to be for only about 2 years during the age of 24 to 25, with him   to run ASM during his age of 25.
 He is also known to be very unpredictable in terms of researching, experimenting, combat and planning, often reaching great lengths to finish goals or fights or even not doing them at all sometimes patching up a problem like a band-aid, ~~inefficient to someone who is said to be the smartest in all of existence~~ I do not such stuff, I am after all the Director of ASM and eliminated at least 3 RC threats with the help of division HTY.
 ASM Director BRG is also viewed to be someone of the innovative side, creating Devices like the [[TLD098]] and the "Barge Archive" or BA, on which BRG would store everything that he created via Teleportation.
 
