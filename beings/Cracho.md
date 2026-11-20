@@ -17,6 +17,6 @@ Cracho Pupulis is a officer of ASM, specifically being designated at Division-HT
 ### Demigod 
 Cracho awakened his form during an incident during the [[GLITCHER]] massacre. With Cracho awakening, it caused collateral damage in a radius of 10,000 mile, emitting 6m Joules during the transformation.
 
-Cracho's Demigod form named CG, gives Cracho 4 tendrils that are 4ft that shift across his eye, these tendrils are made with pure chaotic energy, eviscerating and evaporating everyone in contact with the tendrils except if they are in Cracho's mental whitelist which negates all damage to people Cracho trusts.
+Cracho's Demigod form named CG, gives Cracho 4 tendrils that are 4ft that shift across his eye, these tendrils are made with pure chaotic energy, eviscerating and evaporating everyone in contact with the tendrils, exept if they are in Cracho's mental whitelist which negates all damage to people Cracho trusts.
 
-Cracho also is also able to summon sentient gasses from his tendrils, these gasses are able to burn any sort of life, poisoning them if inhaled. 
+Cracho is also able to summon sentient gases from his tendrils, these ga are able to burn any sort of life, poisoning them if inhaled. 
