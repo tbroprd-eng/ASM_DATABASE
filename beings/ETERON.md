@@ -19,7 +19,11 @@ Eteron's personality is seen to be a person of a large ego who would boast his s
 We also see Eteron constantly deceiving and manipulating multiple organizations, populations and political communities in order to reach his former goal of purging all Xerxions, having zero empathy nor any sort of remorse to anyone he harms or kill, no matter how close they are to him, even so, he has lacked the ability to attach to a person or object.
 
 ### Abilities
-Eteron has several abilities, but one that strikes the most is his ability to mimic and copy abilities that he maintain eye contacts with someone that is using the ability that is at least 2.15 meters in distance. He can enable this in advance in the number of 4.15 in any point of time(4.15 Seconds, minutes, hours, days, months, years, etc.) with the only drawbacks being once he sets a timer, he cant re-activate the ability until the ability activates, and how once he gains the abilities, he can only have the knowledge of the ability from the person who holds that ability specifically, he cant receive more knowledge from that ability from external parties.
+Eteron has several abilities, but one that strikes the most is his ability to mimic and copy abilities that he maintain eye contacts with someone that is using the ability that is at least 2.15 meters in distance. He can enable this in advance for a period of 4.15 in any point of time(4.15 Seconds, minutes, hours, days, months, years, etc.), with the only drawbacks being that once he sets a timer, he can't reactivate the ability until the ability activates, and that once he gains the abilities, he can only have the knowledge of the ability from the person who holds that ability specifically; he can't receive more knowledge from that ability from external parties.
+
+He also has the ability to imbue pure destruction into any projectile or weapon he holds or obtains. This destruction power can erase multiple universes if not stabilized.
+
+
 
 ### MOTIVE
 Eterons motive to purge all Xerxion life is that he hates Alternate versions of himself because they are "inferior", and that they think  that they are smart and have the free will of choice but they all stupidly reach to the same events that happen in all universes(eg., joining an alternate [[ASM]] , having similar powers that somehow have to do with matter manipulation powers, being friends to an Irisy, saving 1-20 more universes, etc.).

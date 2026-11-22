@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
+                "file": "beings/ETERON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ANOMALOUS STRUCTURE OF ASM"
+              "title": "ETERON"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
+                "file": "beings/ETERON.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,6 +217,7 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
+    "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
     "beings/Xetrix-SC.md",
     "beings/Xerxion.md",
     "beings/Untitled.md",
@@ -235,7 +236,6 @@
     "beings/Funterna.md",
     "beings/HALLOWGEN.md",
     "beings/NULL.md",
-    "misc/Documents/ANOMALOUS STRUCTURE OF ASM.md",
     "misc/Documents/blissful ignorance.md",
     "misc/Documents/EMAIL2900.md",
     "misc/Documents/PAGE3PIECE.md",
