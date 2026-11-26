@@ -13,9 +13,15 @@ Avastor is a classified threat and a direct endangerment to reality due to his d
 ### Reasons for revenge
 His revenge for [[Xerxion]](Specifically, it's universe counterpart) is because his master was killed, along with the planet being burned alive by [[the Grabber]] in disguise as Xerxion. This would lead Avastor to train by himself for 10 years, where he would track down that individual.
 
-### Record of deities and important people that he killed()
+### Record of deities and important people that he killed(Based on what the Xerxion in that universe said, this is confirmed)
+Avastor has killed numerous individuals, such as their division-HTY member Python, who was impaled and shortly erased by a beam of dark magic, [[Terpy]], who was assassinated at night, and the 4 main [[deity of concepts]].
 
+He was able to kill most of the deities in this order:
+Power- Head and consciousness removed, resulting on him demanifesting
 
+Life- Gave her living dark matter that grew on her body that eventually exploded
+
+Death- beat's him up w
 # Abilities
 Avastor is able to manipulate almost anything his hands touch, including other abilities and magic, just with negative and dark energy. This gives him the ability to have the strength of Gods in his hands. He can also rewind any object in time for about 1 minute maximum with his dark manipulation magic; this includes abilities, age, life, death, and any concept manipulation.
 
