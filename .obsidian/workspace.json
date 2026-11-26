@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "beings/Avastor.md",
+                "file": "beings/handaranian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Avastor"
+              "title": "handaranian"
             }
           },
           {
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "beings/Avastor.md",
+                "file": "beings/handaranian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,19 +217,19 @@
   },
   "active": "a6fe9a2edf9c58fc",
   "lastOpenFiles": [
-    "beings/ETERON.md",
     "beings/Avastor.md",
+    "beings/handaranian.md",
+    "beings/HALLOWGEN.md",
+    "beings/ETERON.md",
     "beings/xetrixes.md",
     "beings/Xerxion.md",
     "beings/Xatrix.md",
     "beings/VIDO.md",
     "beings/Untitled.md",
     "beings/The Peers.md",
-    "beings/HALLOWGEN.md",
     "beings/BRG.md",
     "beings/False Angels.md",
     "beings/Lovya.md",
-    "beings/handaranian.md",
     "beings/GLITCHER.md",
     "beings/Funterna.md",
     "beings/Ferlucy.md",
