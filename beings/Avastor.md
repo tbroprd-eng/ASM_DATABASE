@@ -21,7 +21,7 @@ Power- Head and consciousness removed, resulting on him demanifesting
 
 Life- Gave her living dark matter that grew on her body that eventually exploded
 
-Death- beat's him up w
+Death- beat him up with his scythe
 # Abilities
 Avastor is able to manipulate almost anything his hands touch, including other abilities and magic, just with negative and dark energy. This gives him the ability to have the strength of Gods in his hands. He can also rewind any object in time for about 1 minute maximum with his dark manipulation magic; this includes abilities, age, life, death, and any concept manipulation.
 
